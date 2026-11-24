@@ -1,0 +1,430 @@
+{
+  "_rules": [
+    "Subject of every sentence is the SYSTEM, never 'Koreans are...'.",
+    "No ranking words: better/worse/advanced/backward/weird/crazy/insane/should learn from.",
+    "No politics, history disputes, territory, military, or government policy evaluation.",
+    "Every episode must contain a COST section."
+  ],
+  "episode": 4,
+  "slug": "apartments",
+  "title": "Why Korea Builds Entire Neighborhoods Like This",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-18%",
+  "images_dir": "ep04_images",
+  "audio_dir": "ep04_audio",
+  "out": "EP04_Apartments_FINAL.mp4",
+  "segments": [
+    {
+      "img": "s01_forest.png",
+      "style": "scene",
+      "prompt": "forest of repeated paper apartment towers concentrated on right, empty left third for thumbnail, families walking between towers, cyclists on the path and small cars on the surrounding street, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "emph": "A neighborhood inside a complex",
+      "text": "From above, a Korean apartment complex can look like a city assembled from the same building again and again. Inside, that repeated skyline can contain a whole network of everyday life."
+    },
+    {
+      "img": "s02_courtyard.png",
+      "style": "scene",
+      "prompt": "cutaway apartment cluster revealing central playground and green paper walking paths, children using swings and slide, a parent chatting with a neighbor and a resident walking a small fictional paper dog on a leash, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "Walk between the towers and the picture changes. A playground, a walking path, a shared entrance, and a maintenance office can all belong to the same residential complex. "
+    },
+    {
+      "card": {
+        "kind": "title",
+        "title": "Korea’s Apartment Complex",
+        "subtitle": "A neighborhood inside a complex"
+      },
+      "text": "Once several buildings share grounds, facilities, and management, the layout starts to organize more than housing. It organizes movement, spending, maintenance, and the boundary of a neighborhood."
+    },
+    {
+      "img": "s04_census.png",
+      "style": "scene",
+      "prompt": "collection of paper housing types dominated by apartment towers with a few detached homes, a miniature housing display with a paper guide showing two visitors the different models, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "The official census for twenty twenty-five counted apartments as sixty-five point eight percent of Korea's housing stock. The figure counts housing units."
+    },
+    {
+      "diagram": {
+        "kind": "list",
+        "title": "3 connected scales",
+        "items": [
+          "The private home",
+          "The shared building",
+          "The managed complex"
+        ]
+      },
+      "text": "To understand the system, start at three scales. There is a private home behind a front door, a building around that home, and a complex that connects several buildings through shared space."
+    },
+    {
+      "img": "s06_home.png",
+      "style": "scene",
+      "prompt": "single paper apartment cutaway with empty living room kitchen and bedroom, a family sharing a meal in the kitchen and a child reading in the living room, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "Furniture, meals, storage, and sleep happen within private rooms. Just outside that door, everyday life begins to depend on equipment and space shared with neighbors."
+    },
+    {
+      "img": "s07_lift.png",
+      "style": "scene",
+      "prompt": "paper apartment core with elevator shaft staircase and shared hallway, a neighbor carrying groceries in the elevator and another walking along the hallway, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "An elevator links many homes to the ground. A roof or a pipe can serve several households at once. Each private home relies on systems extending beyond its walls."
+    },
+    {
+      "img": "s08_cluster.png",
+      "style": "scene",
+      "prompt": "several paper towers on one shared base with trees and paths, residents chatting on a bench, a child riding a scooter and a grounds worker caring for trees, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "ko": "단지",
+      "ko_roman": "Danji",
+      "text": "At the next scale, the complex groups those buildings together. The Korean term is danji. Its grounds can bring multiple entrances, parking spaces, landscaping, and resident facilities into a single managed area."
+    },
+    {
+      "diagram": {
+        "kind": "timeline",
+        "title": "Follow an everyday route",
+        "points": [
+          [
+            "Home",
+            "Front door"
+          ],
+          [
+            "Grounds",
+            "Shared path"
+          ],
+          [
+            "Street",
+            "Wider city"
+          ]
+        ]
+      },
+      "text": "Picture an illustrative site with several towers, a central play area, an entrance for vehicles, and walking routes between buildings. Its entrances shape everyday routes."
+    },
+    {
+      "img": "s10_height.png",
+      "style": "scene",
+      "prompt": "two equal paper plots, low buildings spread out on one and tall tower with open ground on other, a paper urban planner pointing out the two layouts to a visitor, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "Building upward can fit more homes on a given footprint. It can become landscaping, a playground, a road, or an entrance to underground parking."
+    },
+    {
+      "img": "s11_open_ground.png",
+      "style": "scene",
+      "prompt": "paper landscaped pedestrian grounds with cutaway underground garage, people strolling on the landscaped surface and small cars parked in the underground level, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "Some complexes move much of their parking below ground. This makes room for a quieter surface layout, though vehicle access, loading, and emergency routes still have to fit somewhere within the overall design."
+    },
+    {
+      "img": "s12_paths.png",
+      "style": "scene",
+      "prompt": "paper walking routes connecting apartment entrances and playground, a parent and child walking toward the playground and a resident with a small dog on a leash, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "A direct path to a play area makes a trip convenient. Repeating that arrangement across several buildings turns the shared grounds into part of daily household infrastructure."
+    },
+    {
+      "diagram": {
+        "kind": "list",
+        "title": "Facilities close to home",
+        "items": [
+          "Playgrounds and exercise spaces",
+          "Reading and community rooms",
+          "Requirements vary by complex"
+        ]
+      },
+      "text": "Korea's housing construction rules explicitly recognize resident facilities. Their categories include playgrounds, exercise spaces, reading rooms, and childcare facilities. What a particular complex contains depends on its size, age, and applicable requirements."
+    },
+    {
+      "img": "s14_library.png",
+      "style": "scene",
+      "prompt": "miniature paper community reading room with blank books and empty tables, children reading and an adult helping choose a book, with friendly simple ink-drawn faces, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "A reading space or exercise room places an activity close to home. The complex can combine residential buildings with facilities that households use on a recurring basis."
+    },
+    {
+      "img": "s15_threshold.png",
+      "style": "scene",
+      "prompt": "paper community room door and blank access card, a resident tapping an access card while another waits at the doorway, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "The same arrangement raises a question about access. A facility managed for residents has a defined user group. Access from outside depends on the facility’s rules."
+    },
+    {
+      "img": "s16_office.png",
+      "style": "scene",
+      "prompt": "paper management office with blank noticeboard maintenance tools and apartment towers, a manager speaking with a resident and a maintenance worker carrying a toolbox, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "Elevators require servicing, lights need replacing, and grounds need cleaning. The management office provides a visible point where those ordinary tasks can be coordinated."
+    },
+    {
+      "diagram": {
+        "kind": "list",
+        "title": "Shared space needs decisions",
+        "items": [
+          "Operations and budgets",
+          "Common facilities",
+          "Repairs and maintenance"
+        ]
+      },
+      "text": "For complexes covered by the relevant management rules, a residents' representative council helps decide important management matters. Its decisions can concern budgets, common facilities, and maintenance. "
+    },
+    {
+      "img": "s18_budget.png",
+      "style": "scene",
+      "prompt": "blank maintenance ledger with miniature cleaning tools light bulb and elevator parts, a manager and resident discussing the maintenance ledger at the table, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "Cleaning, maintenance, and operation require resources. The convenience of having many services on the grounds comes with a continuing need to fund and organize them."
+    },
+    {
+      "img": "s19_repair.png",
+      "style": "scene",
+      "prompt": "cutaway paper tower with colored pipe connecting separate apartments, a maintenance worker examining the pipe while residents use the separate rooms, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "A repair can affect several homes. Deciding when to replace something may involve both its present condition and the cost that residents will share."
+    },
+    {
+      "img": "s20_repetition.png",
+      "style": "scene",
+      "prompt": "row of paper apartment floor plan cutouts with repeated room shapes, no dimensions, two prospective residents comparing the floor-plan cutouts with a small paper guide, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "Similar layouts and building forms can make it easier to recognize what is being offered. A floor plan can be compared with another unit using familiar features."
+    },
+    {
+      "img": "s21_comparison.png",
+      "style": "scene",
+      "prompt": "two paper units with blank comparison cards, one unit raised on a small platform, a paper couple pointing at the different unit models and their blank information cards, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "That comparison can include the size of the unit, its floor, and the complex it belongs to. An apartment becomes a home that can also be described through a fairly consistent set of attributes."
+    },
+    {
+      "img": "s22_data.png",
+      "style": "scene",
+      "prompt": "paper apartment model beside blank tabular ledger and banknote cutouts, two fictional adults studying the transaction ledger with a real estate desk clerk, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "The national real transaction price system publishes reported apartment sales alongside information such as floor area and floor level. Those records make actual transactions visible to someone looking at a particular housing market."
+    },
+    {
+      "diagram": {
+        "kind": "list",
+        "title": "One apartment, 2 roles",
+        "items": [
+          "Rooms for living",
+          "Property that can be sold"
+        ]
+      },
+      "text": "The same apartment now has two roles. It provides rooms for living, and ownership gives someone an asset that can be sold. Daily comfort and a future sale can enter the same conversation."
+    },
+    {
+      "img": "s24_tenure.png",
+      "style": "scene",
+      "prompt": "paper apartment with blank deed folder and two separate keys, a resident receiving keys from another adult across the table, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "The person living there may own the unit or rent it. Ownership and occupancy can sit with different households. That distinction matters when a shared decision affects both the home and its owner."
+    },
+    {
+      "img": "s25_asset.png",
+      "style": "scene",
+      "prompt": "paper balance scale with miniature home on one pan and blank notes on other, a small paper adult looking thoughtfully at the balance, with a natural curious pose, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "For an owner, a shared repair can be an expense needed to keep the building useful. It can also be considered through the apartment's marketability. These concerns can pull attention toward the same maintenance decision."
+    },
+    {
+      "img": "s26_horizon.png",
+      "style": "scene",
+      "prompt": "two paper frames showing furnished room and blank property listing card, a family using the furnished room in one frame and two adults inspecting the listing in the other, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "The rooms are lived in today while the property can be priced for a future transaction. The two time horizons exist in the same physical space."
+    },
+    {
+      "diagram": {
+        "kind": "list",
+        "title": "What the design costs",
+        "items": [
+          "Repeated forms",
+          "Asset considerations",
+          "An inside and an outside"
+        ]
+      },
+      "text": "The design also comes with tradeoffs. Follow three of them. Repeated forms can narrow visual variety, asset considerations can enter household decisions, and a clear perimeter can separate the complex from nearby streets."
+    },
+    {
+      "img": "s28_uniformity.png",
+      "style": "scene",
+      "prompt": "long paper apartment facade with repeated identical windows and balconies, different residents visible through a few windows, one watering a plant and another waving, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "Start with visual uniformity. Repeated windows and towers can give a development a recognizable identity. Across a large site, the same repetition can make different corners look similar, especially when seen from the street."
+    },
+    {
+      "img": "s29_different_inside.png",
+      "style": "scene",
+      "prompt": "matching paper apartment shells with different furniture arrangements inside, different families reading, cooking and playing a board game in their separate homes, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "The interiors can still be different. Households furnish and use their rooms in their own ways. The visual tradeoff appears at the scale of the buildings and the streetscape surrounding them."
+    },
+    {
+      "img": "s30_change.png",
+      "style": "scene",
+      "prompt": "interlocking paper towers on shared base with a small replacement building beside them, a few residents and a maintenance planner discussing the replacement piece, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "A complex built and managed as a connected system can also make piecemeal change complicated. Altering an entrance, a common area, or a shared facility can require coordination beyond a single household's preferences."
+    },
+    {
+      "img": "s31_edge.png",
+      "style": "scene",
+      "prompt": "paper apartment perimeter with green paths inside and small street shops outside, residents strolling inside and pedestrians shopping outside, with a small delivery car on the street, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "Now move to the edge. The inside may prioritize residential paths and shared grounds. The outside street may carry shops, traffic, and routes used by many more people. These spaces meet at specific openings."
+    },
+    {
+      "diagram": {
+        "kind": "compare",
+        "left": {
+          "title": "A direct path",
+          "lines": [
+            "Connects both sides",
+            "A shorter walk"
+          ]
+        },
+        "right": {
+          "title": "A perimeter route",
+          "lines": [
+            "Uses the entrances",
+            "A longer walk"
+          ]
+        }
+      },
+      "text": "A boundary becomes especially important when paths stop at it. A short straight line on a map can become a longer walk if a pedestrian has to go around a site to reach an entrance."
+    },
+    {
+      "img": "s33_detour.png",
+      "style": "scene",
+      "prompt": "paper urban block with a direct desired path interrupted by perimeter and a path around it, a pedestrian with a backpack walking the perimeter route, with clear paper motion cues, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "Imagine a destination directly across an illustrative block. A passage through the middle would connect the two sides. A perimeter route adds distance. This example shows how access rules can change a walk without moving its destination."
+    },
+    {
+      "img": "s34_gate.png",
+      "style": "scene",
+      "prompt": "paper apartment perimeter with several gates and paths approaching from outside, neighbors entering through one gate and a parent pushing a stroller through another, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "Actual complexes differ in how open their grounds are. Where are the entrances, which paths connect through, and who can use each facility once they arrive?"
+    },
+    {
+      "img": "s35_streetlife.png",
+      "style": "scene",
+      "prompt": "calm landscaped paper residential grounds beside street-facing shopfronts, shopkeeper greeting customers, pedestrians browsing shops, a cyclist passing along the outer street, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "An internally focused layout can draw everyday movement toward the grounds. That can change how much activity faces the surrounding street. The effect depends on the entrances, the edge, and the destinations nearby."
+    },
+    {
+      "diagram": {
+        "kind": "list",
+        "title": "Linked design choices",
+        "items": [
+          "Sheltered residential space",
+          "Surrounding street connections",
+          "Rules for access and upkeep"
+        ]
+      },
+      "text": "A sheltered residential space and a connected city street serve different kinds of movement. The layout has to accommodate the people living inside while meeting a wider urban network."
+    },
+    {
+      "img": "s37_network.png",
+      "style": "scene",
+      "prompt": "paper paths from apartment entrances to an unbranded transit station and shops, commuters walking toward the transit station and a small bus on the surrounding street, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "Transit, schools, workplaces, and shops sit beyond the complex. Even a development with many internal facilities depends on connections that reach outside its own grounds."
+    },
+    {
+      "img": "s38_zoom_out.png",
+      "style": "scene",
+      "prompt": "overhead paper city model with differently shaped apartment complexes and connecting streets, tiny pedestrians and a few cars and buses animating the connecting streets, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "A group of towers may look self-contained from above, but its entrances feed into streets, and those streets connect to destinations that the complex cannot supply by itself."
+    },
+    {
+      "diagram": {
+        "kind": "list",
+        "title": "Read the ground level",
+        "items": [
+          "Follow the paths",
+          "Locate the shared facilities",
+          "Notice where the edge opens"
+        ]
+      },
+      "text": "An apartment skyline becomes easier to read when you ask about its ground level. Follow the paths, look at the facilities, find the management boundary, and notice how the edge meets the next street."
+    },
+    {
+      "img": "s40_layers.png",
+      "style": "scene",
+      "prompt": "three nested paper models with room inside building inside complex, a family inside the room model and tiny neighbors walking within the larger complex, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "The private home, the shared building, and the managed complex keep operating together. Each scale supplies something the others depend on. Each also introduces decisions about cost, control, and access."
+    },
+    {
+      "img": "s41_summary.png",
+      "style": "scene",
+      "prompt": "paper apartment complex with key maintenance toolbox and blank sales ledger, a resident holding a key, a worker carrying tools, and adults reviewing the blank ledger, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "This is how a repeated building form becomes a whole housing system. It gathers homes, services, shared obligations, and saleable property into a place that many households experience as their immediate neighborhood."
+    },
+    {
+      "img": "s42_return.png",
+      "style": "scene",
+      "prompt": "forest of paper towers opening like a book to reveal courtyards shared rooms and routes, families and children using the revealed courtyards and shared rooms, a resident walking a dog, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "Return to the forest of towers. The repetition catches the eye first. The routes between buildings, the facilities behind doors, and the obligations shared across homes explain what makes that landscape function."
+    },
+    {
+      "card": {
+        "kind": "end",
+        "channel": "Only in Korea",
+        "line": "How systems work. Nothing more."
+      },
+      "text": "The next time a Korean apartment skyline appears on screen, look for the space between the towers. That is where the complex starts to reveal how it organizes everyday life. This is Only in Korea."
+    }
+  ],
+  "chapter_segments": [
+    1,
+    5,
+    13,
+    20,
+    27,
+    31,
+    37,
+    42
+  ],
+  "thumb": {
+    "img": "s01_forest.png",
+    "kicker": "ONE COMPLEX.",
+    "punch": "A WHOLE CITY."
+  },
+  "desc": {
+    "lead": "Korea’s apartment towers often come as a whole residential complex. Follow the paths, shared facilities, maintenance decisions, and property transactions that turn repeated buildings into a housing system.",
+    "chapters": [
+      [
+        "0:00",
+        "The forest of towers"
+      ],
+      [
+        "",
+        "The home, the building, the complex"
+      ],
+      [
+        "",
+        "Shared facilities and decisions"
+      ],
+      [
+        "",
+        "A home that is also an asset"
+      ],
+      [
+        "",
+        "The tradeoffs"
+      ],
+      [
+        "",
+        "Inside and outside"
+      ],
+      [
+        "",
+        "Connecting back to the city"
+      ],
+      [
+        "",
+        "Reading the skyline"
+      ]
+    ],
+    "refs": [
+      "National Data Office, 2025 Population and Housing Census, housing stock 65.8% apartments: https://www.korea.kr/news/policyNewsView.do?newsId=156772432",
+      "Housing Construction Standards, Article 2, resident facility categories: https://www.law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1026058981",
+      "Housing Construction Standards, Article 55-2, requirements vary with complex size: https://www.law.go.kr/LSW/lsInfoP.do?lsId=004948",
+      "Ministry of Government Legislation, apartment representative council decision areas: https://www.easylaw.go.kr/CSP/CnpClsMain.laf?ccfNo=2&cciNo=2&cnpClsNo=1&csmSeq=1248&popMenu=ov",
+      "MOLIT, real transaction price system disclosure guide: https://rt.molit.go.kr/pt/info/info.do",
+      "MOLIT, published apartment transaction fields: https://rt.molit.go.kr/pt/bbs/faqList.do?mobileAt=&qnaProcessSttusCode=1",
+      "The Seoul Institute, research on superblock residential areas and urban connections: https://www.si.re.kr/bbs/view.do?key=2024100039&pstSn=2102030001"
+    ],
+    "tags": [
+      "Korea",
+      "South Korea",
+      "apartments",
+      "Korean housing",
+      "Only in Korea",
+      "urban planning"
+    ]
+  },
+  "sub_replace": {
+    "twenty twenty-five": "2025",
+    "sixty-five point eight percent": "65.8%",
+    "three scales": "3 scales",
+    "two roles": "2 roles",
+    "three of them": "3 of them",
+    "two time horizons": "2 time horizons"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "_rules": [
+    "Subject of every sentence is the SYSTEM, never 'Koreans are...'.",
+    "No ranking words: better/worse/advanced/backward/weird/crazy/insane/should learn from.",
+    "No politics, history disputes, territory, military, or government policy evaluation.",
+    "Every episode must contain a COST section."
+  ],
+  "episode": 6,
+  "slug": "delivery",
+  "title": "Why Korea Delivers Food Onto Boats",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-18%",
+  "images_dir": "ep06_images",
+  "audio_dir": "ep06_audio",
+  "out": "EP06_Delivery_FINAL.mp4",
+  "sub_replace": {
+    "twenty percent": "20%",
+    "four AM": "4:00 AM",
+    "seventeen": "17",
+    "two hundred seventy-two trillion": "272 trillion",
+    "fifteen point three percent": "15.3%",
+    "forty-one trillion": "41 trillion",
+    "seventy-seven percent": "77%",
+    "eleven PM": "11:00 PM",
+    "seven AM": "7:00 AM",
+    "twentieth floor": "20th floor"
+  },
+  "thumb": {
+    "img": "01_doorstep_midnight.jpg",
+    "kicker": "ZERO TIP.",
+    "punch": "ONTO BOATS."
+  },
+  "desc": {
+    "lead": "Korean food delivery runs 24/7, charges no tips, and reaches public parks, riverside zones, and even boats on the water. This episode traces how the system works, from Joseon-era dawn soup to today's dawn-delivery groceries.",
+    "refs": [
+      "Korea National Statistical Office, Online Shopping Survey 2025: https://kostat.go.kr",
+      "Seoul Metropolitan Government, Hangang Park Delivery Zones: https://hangang.seoul.go.kr",
+      "Korea Consumer Agency, delivery platform fee disclosure regulations: https://kca.go.kr"
+    ],
+    "tags": [
+      "Korea",
+      "South Korea",
+      "Korean food delivery",
+      "baedal",
+      "Only in Korea",
+      "Seoul"
+    ]
+  },
+  "segments": [
+    {
+      "img": "01_doorstep_midnight.jpg",
+      "emph": "₩0 tip · 24/7",
+      "text": "Imagine it is 11:30 at night in Seoul. You open an app and order steaming noodle soup and crispy fried chicken. Thirty minutes later, your phone chimes. There is no awkward knock, no cash, and zero expectation of a tip. You open your front door, pick up your meal, and eat."
+    },
+    {
+      "img": "02_porcelain_bowls_door.jpg",
+      "emph": "배달 Baedal",
+      "text": "Rewind a couple of decades, and the scene gets even wilder. Instead of plastic tubs, your food arrived in heavy, real porcelain bowls. When you finished eating, you did not wash them or throw anything away. You stacked the dirty ceramic bowls outside your door and went to sleep. By morning, the restaurant picked them up to wash and reuse."
+    },
+    {
+      "diagram": {
+        "kind": "list",
+        "title": "No-Tip Delivery",
+        "items": [
+          "Final price shown upfront in the app",
+          "Zero tipping expected at the door",
+          "Even a single meal or coffee is easy to order"
+        ]
+      },
+      "text": "In South Korea, food delivery is not treated as a weekend splurge. It is an everyday urban utility, like running water or fast internet. In many Western cities, service fees and a twenty percent tip can double a meal's cost. In Korea, tipping simply does not exist in the delivery ecosystem."
+    },
+    {
+      "img": "03_zero_tip_phone.jpg",
+      "emph": "₩0 tip",
+      "text": "When you pay in the app, the price on the screen is the final price. Delivery fees are modest, waived with passes, or folded into minimums. Single-person households, students, and families all tap the same network. Delivery is treated as an extension of the dining table itself."
+    },
+    {
+      "img": "04_joseon_hyojonggaeng.jpg",
+      "emph": "효종갱 Hyojonggaeng",
+      "text": "Long before smartphones, Korea already had a deep delivery habit. Joseon-era records mention nobles ordering cold naengmyeon noodles to their homes. A 1925 text called Haedong Jukji describes hyojonggaeng, or dawn-bell soup. Pots of soup were wrapped thick in cotton at night and carried into Seoul. They arrived steaming hot just as the four AM dawn bell rang."
+    },
+    {
+      "img": "05_cheolgabang_bicycle.jpg",
+      "emph": "철가방 Cheolgabang",
+      "text": "By the mid-twentieth century, that tradition gained an iconic symbol: the cheolgabang, a rectangular silver aluminum delivery box. Neighborhood Chinese restaurants balanced hot jajangmyeon and sweet-and-sour pork inside tiered metal shelves on the back of bicycles and motorcycles. Leaving empty ceramic bowls outside your door was the unspoken contract."
+    },
+    {
+      "img": "06_apartment_grid.jpg",
+      "emph": "단지 Danji",
+      "text": "Korea's delivery speed is also built into its urban geometry. High-rise apartment complexes, called danji, pack thousands of homes into numbered towers. Every building has a clear number, a shared keypad, and fast elevators. One rider on a scooter can drop off three meals in under five minutes. Street-level shops beneath the towers shrink the distance from stove to sofa."
+    },
+    {
+      "img": "07_park_chicken_burger.jpg",
+      "text": "Even without a street address, Korea's delivery network adapts. On warm evenings, thousands spread picnic mats across public parks. There are no house numbers on the grass and no mailboxes. Yet everywhere you look, people are unwrapping freshly delivered fried chicken, hot hamburgers, and fries right on their picnic blankets."
+    },
+    {
+      "img": "08_hangang_delivery_zone.jpg",
+      "emph": "배달존 Delivery Zone",
+      "text": "To make park delivery effortless, Seoul built official infrastructure. The Seoul Metropolitan Government operates seventeen designated Delivery Zones across Hangang parks. From Yeouido and Banpo to Ttukseom and Mangwon, riders pull right up to marked pickup points and hand over dinner beside the river."
+    },
+    {
+      "img": "09_boat_jajangmyeon_delivery.jpg",
+      "emph": "선상 배달 Boat Delivery",
+      "text": "And it does not even stop at the shoreline. In Korea, people have famously ordered steaming bowls of jajangmyeon and spicy seafood jjamppong straight onto boats anchored on the water. Whether at a river dock or from a supply boat pulling alongside a fishing vessel, if you can drop a pin where you are floating, hot noodles will find you."
+    },
+    {
+      "diagram": {
+        "kind": "list",
+        "title": "By the Numbers: 2025",
+        "items": [
+          "272 trillion won total online shopping",
+          "15.3% — over 41 trillion won in food delivery",
+          "77% of all orders placed on mobile phones"
+        ]
+      },
+      "text": "Official 2025 statistics show just how massive this daily habit has become. Total online shopping reached two hundred seventy-two trillion won, with seventy-seven percent on mobile phones. Food delivery alone accounted for fifteen point three percent — over forty-one trillion won in one year."
+    },
+    {
+      "img": "10_market_scale_collage.jpg",
+      "text": "Delivery is no longer limited to pizza, chicken, and Chinese noodles. People routinely order a single iced americano, a handmade burger combo, shaved ice packed with cold packs, or fresh sashimi over crushed ice. Even at one or two in the morning, dozens of neighborhood kitchens remain open."
+    },
+    {
+      "img": "11_dawn_delivery_box.jpg",
+      "emph": "새벽배송 Dawn Delivery",
+      "text": "The same obsession with speed transformed grocery shopping too. With saebyeok baesong — dawn delivery — you can order milk, eggs, and greens at eleven PM. While you sleep, insulated chilled boxes move through automated hubs and arrive quietly at your doorstep before seven AM."
+    },
+    {
+      "img": "12_reusable_qr_containers.jpg",
+      "emph": "다회용기 Reusable",
+      "text": "To tackle single-use plastic waste, Korea brought back its own past. In Seoul, apps let you toggle a reusable container option. After eating, you scan a QR code on the return bag and leave it outside — or drop it at official return bins right inside Hangang parks."
+    },
+    {
+      "img": "13_seoul_night_utility.jpg",
+      "text": "From cotton-wrapped dawn soup to silver metal boxes, park pickup zones, and noodles delivered onto boats, the tools have changed completely. Yet the promise has stayed the same. Wherever you are — on the twentieth floor or floating on the river — dinner is on the way."
+    },
+    {
+      "card": {
+        "kind": "end",
+        "channel": "Only in Korea",
+        "line": "How systems work. Nothing more."
+      },
+      "text": "This is Only in Korea."
+    }
+  ]
+}

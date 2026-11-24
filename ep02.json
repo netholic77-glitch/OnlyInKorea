@@ -1,0 +1,406 @@
+{
+  "_rules": [
+    "Subject of every sentence is the SYSTEM, never 'Koreans are...'.",
+    "No ranking words: better/worse/advanced/backward/weird/crazy/insane/should learn from.",
+    "No politics, history disputes, territory, military, or government policy evaluation.",
+    "Every episode must contain a COST section."
+  ],
+  "episode": 2,
+  "slug": "jeonse",
+  "title": "Pay a Fortune. Pay No Rent. Get It All Back.",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-18%",
+  "images_dir": "ep02_images",
+  "audio_dir": "ep02_audio",
+  "out": "EP02_Jeonse_FINAL.mp4",
+  "segments": [
+    {
+      "img": "s01_entry.png",
+      "style": "object",
+      "prompt": "a paper apartment entrance with a large stack of blank paper banknotes and a brass-colored paper key, focal objects on the right for thumbnail text",
+      "emph": "₩0 monthly rent",
+      "text": "Imagine getting the keys to an apartment and owing zero won in monthly rent. There is one condition. Before moving in, you hand the landlord a deposit of two hundred million won."
+    },
+    {
+      "img": "s02_return.png",
+      "style": "object",
+      "prompt": "an intact stack of blank paper banknotes sliding back across a miniature counter",
+      "ko": "전세",
+      "ko_roman": "Jeonse",
+      "text": "Now for the part that makes this lease surprising. When it ends, the landlord owes you that same two hundred million won back. The usual deal is that you return the keys and get the deposit back."
+    },
+    {
+      "card": {
+        "kind": "reversal",
+        "strike": "RENT EVERY MONTH",
+        "punch": "A DEPOSIT THAT COMES BACK"
+      },
+      "text": "The deposit isn't an advance payment of rent. It pays for the arrangement by giving the landlord use of the money while you have use of the home. In Korea, that arrangement is called jeonse."
+    },
+    {
+      "card": {
+        "kind": "title",
+        "title": "How Jeonse Works",
+        "subtitle": "A lease with no monthly rent"
+      },
+      "text": "The same deposit connects all three stages of a jeonse lease."
+    },
+    {
+      "img": "s05_apartment.png",
+      "style": "object",
+      "prompt": "a cutaway miniature apartment with an empty living room and a paper key outside its doorway",
+      "text": "Start with what the contract gives each side. The tenant gets the right to live in the home for the lease term. The landlord keeps ownership and takes on an obligation to repay the deposit."
+    },
+    {
+      "diagram": {
+        "kind": "compare",
+        "left": {
+          "title": "Wolse",
+          "lines": [
+            "Deposit",
+            "Monthly rent"
+          ]
+        },
+        "right": {
+          "title": "Pure jeonse",
+          "lines": [
+            "Larger deposit",
+            "₩0 monthly rent"
+          ]
+        }
+      },
+      "text": "A Korean monthly rental is called wolse. It commonly combines a deposit with a recurring rent payment. With pure jeonse, the deposit is typically much larger, and the recurring rent line is zero."
+    },
+    {
+      "img": "s07_slider.png",
+      "style": "object",
+      "prompt": "a folded paper slider with small and large stacks of blank banknotes at opposite ends",
+      "text": "Some leases sit between those two arrangements. They pair a sizable deposit with some monthly rent. The difference is visible in the contract itself. Look at both the upfront deposit and the amount due each month."
+    },
+    {
+      "img": "s08_contract.png",
+      "style": "object",
+      "prompt": "a blank folded rental contract with a paper pen and a small apartment model",
+      "text": "Let's use a single imaginary apartment to follow the money. The terms in this example are a two hundred million won deposit, zero won in monthly rent, and a lease lasting two years."
+    },
+    {
+      "diagram": {
+        "kind": "timeline",
+        "title": "When the money moves",
+        "points": [
+          [
+            "Sign",
+            "Pay part"
+          ],
+          [
+            "Move in",
+            "Pay the balance"
+          ],
+          [
+            "Lease ends",
+            "Deposit due back"
+          ]
+        ]
+      },
+      "text": "There can be more than one payment before the tenant settles in. Seoul's housing guide describes a common split. Part of the deposit is paid at signing, and the rest comes due at move-in."
+    },
+    {
+      "img": "s10_signing.png",
+      "style": "object",
+      "prompt": "a small stack of blank paper banknotes beside a blank paper contract on a miniature table",
+      "text": "Say the signing payment is ten percent. On our imaginary lease, that makes it twenty million won. That payment counts toward the agreed deposit, so the remaining balance is one hundred eighty million won."
+    },
+    {
+      "img": "s11_move_in.png",
+      "style": "object",
+      "prompt": "paper moving boxes beside an apartment door, a blank banknote stack on a nearby ledge",
+      "text": "At move-in, the balance brings the total paid to two hundred million won. The tenant now has the keys."
+    },
+    {
+      "img": "s12_calendar.png",
+      "style": "object",
+      "prompt": "a blank layered paper wall calendar inside a tiny apartment hallway",
+      "text": "Two years is also a useful reference point in Korean housing law. A housing lease with no specified term, or a term shorter than two years, is generally treated as lasting two years."
+    },
+    {
+      "img": "s13_term.png",
+      "style": "object",
+      "prompt": "a folded paper calendar opening beside a sealed miniature lease folder",
+      "text": "The law gives the tenant a choice here. If the contract specifies a shorter term, the tenant can assert that shorter term."
+    },
+    {
+      "img": "s14_bills.png",
+      "style": "object",
+      "prompt": "a paper light bulb, blue paper faucet and a few blank utility slips",
+      "text": "The absence of monthly rent only describes the rent line. Electricity, water, and building charges can still come due."
+    },
+    {
+      "img": "s15_quiet_months.png",
+      "style": "object",
+      "prompt": "an empty miniature paper living room with layered seasonal colors visible through its window",
+      "text": "During the lease, the landlord still owes the agreed sum. The lease does not shave a month's worth of rent off that balance."
+    },
+    {
+      "diagram": {
+        "kind": "list",
+        "title": "What the deposit does",
+        "items": [
+          "Tenant gets use of the home",
+          "Landlord gets use of the money",
+          "Landlord owes the deposit back"
+        ]
+      },
+      "text": "So what does the landlord get from a lease with zero monthly rent? The answer is the use of a large sum of money for the duration of the arrangement."
+    },
+    {
+      "img": "s17_mortgage.png",
+      "style": "object",
+      "prompt": "a small paper apartment and a miniature bank joined by a path of blank folded banknotes",
+      "text": "For example, the deposit could be used to pay down part of a loan. That can reduce interest expenses during the lease. The obligation to return the tenant's deposit remains in place through all of that."
+    },
+    {
+      "img": "s18_ledger.png",
+      "style": "object",
+      "prompt": "an open blank paper ledger with a stack of banknotes on one side and a key on the other",
+      "text": "For the tenant, the deposit is money owed back. For the landlord, it is money available now with a repayment due later."
+    },
+    {
+      "img": "s19_savings.png",
+      "style": "object",
+      "prompt": "a cutaway paper lockbox holding a bundle of blank paper savings notes",
+      "text": "A tenant who funds the deposit from savings gives up whatever those savings could have earned elsewhere."
+    },
+    {
+      "img": "s20_interest.png",
+      "style": "object",
+      "prompt": "a paper savings jar with a small extra pile of blank notes outside it",
+      "text": "Suppose the money could earn three percent a year before tax. On a two hundred million won deposit, that would be six million won in foregone interest over a year. That's an illustration, not a market rate."
+    },
+    {
+      "img": "s21_monthly.png",
+      "style": "object",
+      "prompt": "a row of small stacks of blank paper notes next to a paper calendar",
+      "text": "Spread that hypothetical interest over twelve months and you get five hundred thousand won a month. Nobody sends a monthly bill for it. It is the value of the interest the tenant gives up in this example."
+    },
+    {
+      "img": "s22_bank_loan.png",
+      "style": "object",
+      "prompt": "a tiny paper bank counter with an unsigned loan folder and a stack of blank banknotes",
+      "text": "If the tenant borrows part of the deposit, there may be a real interest payment as well. That payment goes to the lender. It is the cost of financing the deposit, separate from the rent owed to the landlord."
+    },
+    {
+      "diagram": {
+        "kind": "list",
+        "title": "What housing costs",
+        "items": [
+          "Rent and running costs",
+          "Interest paid on borrowing",
+          "Interest forgone on savings"
+        ]
+      },
+      "text": "To compare costs, add monthly rent, loan interest, and the interest forgone on savings. Identical apartments can carry different costs."
+    },
+    {
+      "img": "s24_balance.png",
+      "style": "object",
+      "prompt": "a folded paper balance scale with blank banknotes on one pan and a small blank calendar on the other",
+      "text": "There is also a question of access. A household can have enough income to handle the ongoing expenses and still need time to assemble the deposit. Jeonse puts that funding requirement right at the front."
+    },
+    {
+      "img": "s25_exit.png",
+      "style": "object",
+      "prompt": "a paper key on a ledge beside neatly stacked moving boxes at an apartment doorway",
+      "text": "At the end of the lease, the deposit moves from an amount written in the contract to money that needs to be paid back. The outgoing tenant may already need that money for another home."
+    },
+    {
+      "img": "s26_handover.png",
+      "style": "object",
+      "prompt": "a miniature paper counter with a key and a stack of blank banknotes moving in opposite directions",
+      "text": "In our simple example, the tenant hands the apartment back and the landlord returns two hundred million won. The deposit has made its round trip."
+    },
+    {
+      "img": "s27_dates.png",
+      "style": "object",
+      "prompt": "two small paper apartment facades with a folded calendar between them",
+      "text": "The timing of that last step matters. A refund can be due on one home just as a deposit is due on the next. Even a delay can leave a tenant with a funding gap between move-out and move-in."
+    },
+    {
+      "img": "s28_funds.png",
+      "style": "object",
+      "prompt": "several paths of blank paper notes leading toward one apartment doorway",
+      "text": "A landlord might repay from available cash, from borrowing, or from a new tenant's deposit. The lease obliges the landlord to repay. A new tenant's arrival is just one possible source of funds."
+    },
+    {
+      "img": "s29_gap.png",
+      "style": "object",
+      "prompt": "two uneven blank banknote stacks with a clear empty gap between them",
+      "text": "Say the next tenant's deposit is smaller. That new payment alone won't cover the refund owed on the old lease. The difference has to come from somewhere else. The original repayment amount stays the same in this example."
+    },
+    {
+      "img": "s30_claims.png",
+      "style": "object",
+      "prompt": "a tiny paper apartment beside layered blank folders representing multiple claims on the property",
+      "text": "Other claims on the property can matter as well. If a home is sold at auction, there may be a limited sum available to pay everyone. Who has priority can affect how much the tenant recovers."
+    },
+    {
+      "diagram": {
+        "kind": "list",
+        "title": "Protection for tenants",
+        "items": [
+          "Take possession",
+          "Complete resident registration",
+          "Obtain an officially assigned date"
+        ]
+      },
+      "text": "Korea's housing lease law provides some protections. For an ordinary housing lease, taking possession and completing resident registration can give the lease effect against third parties from the following day."
+    },
+    {
+      "img": "s32_date_stamp.png",
+      "style": "object",
+      "prompt": "a miniature rubber stamp made of paper over a blank folded contract, no visible print",
+      "text": "An officially assigned date on the contract, along with those steps, can give the tenant priority over lower-ranking claims in a qualifying sale. The order matters because several claims can be tied to the same home."
+    },
+    {
+      "img": "s33_registry.png",
+      "style": "object",
+      "prompt": "an open blank paper registry beside a miniature apartment block",
+      "text": "This is why existing rights recorded against an apartment, such as a mortgage, are relevant to the lease. The size of the deposit tells you the amount at stake. It says little about who ranks ahead of it."
+    },
+    {
+      "img": "s34_expiry.png",
+      "style": "object",
+      "prompt": "a blank paper calendar beside a closed lockbox and miniature apartment keys",
+      "text": "The lease law also says that the lease relationship is deemed to continue after the term expires until the deposit is repaid. That rule and the actual arrival of money are separate steps."
+    },
+    {
+      "img": "s35_guarantee.png",
+      "style": "object",
+      "prompt": "a folded paper shield raised above a stack of blank notes and a sealed document",
+      "text": "A different protection is a deposit return guarantee. The Korea Housing and Urban Guarantee Corporation, known as HUG, offers a product that can cover repayment if the landlord fails to return a covered deposit."
+    },
+    {
+      "img": "s36_coverage.png",
+      "style": "object",
+      "prompt": "a small paper checklist made from blank cards with simple check-shaped cutouts",
+      "text": "A guarantee has eligibility requirements and a claims process. Its place in the system is to provide another route to repayment when the conditions are met. The amount and timing still matter to the tenant."
+    },
+    {
+      "img": "s37_two_flows.png",
+      "style": "object",
+      "prompt": "a paper apartment surrounded by simple curved folded-paper paths, a key and blank banknotes following separate paths",
+      "text": "The money and the keys move on different schedules. The tenant uses the home while the deposit is outstanding."
+    },
+    {
+      "img": "s38_ownership.png",
+      "style": "object",
+      "prompt": "a miniature paper home, a blank deed folder and a separate brass-colored paper key",
+      "text": "And the large payment never turns the tenant into a part owner. If the home's price rises during the lease, the original agreement still calls for return of the deposit. It does not give the tenant a share of that rise."
+    },
+    {
+      "diagram": {
+        "kind": "list",
+        "title": "The deposit round trip",
+        "items": [
+          "Sign and move in: deposit goes in",
+          "During the lease: no monthly rent",
+          "Lease ends: deposit is due back"
+        ]
+      },
+      "text": "Two questions explain jeonse. When does the money change hands, and who has to give it back?"
+    },
+    {
+      "img": "s40_tradeoff.png",
+      "style": "object",
+      "prompt": "a paper apartment flanked by a thick banknote stack and a turned-over blank calendar",
+      "text": "The tenant exchanges access to a large sum for a home with no monthly rent. The landlord gets that access and takes on a future repayment."
+    },
+    {
+      "card": {
+        "kind": "end",
+        "channel": "Only in Korea",
+        "line": "How systems work. Nothing more."
+      },
+      "text": "Back at that apartment door, the whole agreement fits into a simple exchange. The keys come with a large deposit, the monthly rent is zero, and when the lease ends the same deposit is due back."
+    }
+  ],
+  "chapter_segments": [
+    1,
+    5,
+    8,
+    16,
+    19,
+    25,
+    31,
+    39
+  ],
+  "thumb": {
+    "img": "s01_entry.png",
+    "kicker": "DEPOSIT.",
+    "punch": "NO RENT."
+  },
+  "desc": {
+    "lead": "A large deposit goes in. Monthly rent is zero. When the lease ends, the same deposit is due back. Here is how Korea’s jeonse lease works, including what the deposit costs and what protects repayment.",
+    "chapters": [
+      [
+        "0:00",
+        "Zero monthly rent"
+      ],
+      [
+        "",
+        "Jeonse and wolse"
+      ],
+      [
+        "",
+        "How the deposit is paid"
+      ],
+      [
+        "",
+        "What the landlord gets"
+      ],
+      [
+        "",
+        "What it costs the tenant"
+      ],
+      [
+        "",
+        "How the deposit comes back"
+      ],
+      [
+        "",
+        "What protects repayment"
+      ],
+      [
+        "",
+        "The round trip"
+      ]
+    ],
+    "refs": [
+      "Seoul Metropolitan Government, Wolse / Jeonse: https://english.seoul.go.kr/service/living/housing/1-wolse-jeonse/",
+      "Korean Housing Lease Protection Act, Articles 3, 3-2 and 4 (KLRI English translation): https://elaw.klri.re.kr/eng_mobile/ganadaDetail.do?hseq=72825&key=HOUSING+LEASE+PROTECTION+ACT&param=H&type=abc",
+      "Korea Housing & Urban Guarantee Corporation, Guarantee Products: https://www.khug.or.kr/hug/web/en/02/en02000001.jsp",
+      "HUG, Deposit Return Guarantee eligibility and terms: https://onestop.khug.or.kr/view/biz/apply/goods001"
+    ],
+    "tags": [
+      "Jeonse",
+      "Korea",
+      "South Korea",
+      "Korean housing",
+      "Korean leases",
+      "Only in Korea"
+    ]
+  },
+  "sub_replace": {
+    "two hundred million won": "₩200,000,000",
+    "zero won": "₩0",
+    "all three stages": "all 3 stages",
+    "two years": "2 years",
+    "ten percent": "10%",
+    "twenty million won": "₩20,000,000",
+    "one hundred eighty million won": "₩180,000,000",
+    "three percent": "3%",
+    "six million won": "₩6,000,000",
+    "twelve months": "12 months",
+    "five hundred thousand won": "₩500,000",
+    "Two questions": "2 questions"
+  }
+}

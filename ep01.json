@@ -1,0 +1,457 @@
+{
+ "_rules": [
+  "Subject of every sentence is the SYSTEM, never 'Koreans are...'.",
+  "No ranking words: better/worse/advanced/backward/weird/crazy/insane/should learn from.",
+  "No politics, history disputes, territory, military, or government policy evaluation.",
+  "Every episode must contain a COST section."
+ ],
+ "episode": 1,
+ "slug": "suneung",
+ "title": "Why Korea Stops Planes for One Exam",
+ "voice": "en-US-AndrewNeural",
+ "rate": "-5%",
+ "images_dir": "ep01_images",
+ "audio_dir": "ep01_audio",
+ "out": "EP01_Suneung_FINAL.mp4",
+ "segments": [
+  {
+   "img": "s01_sky.png",
+   "style": "object",
+   "prompt": "an empty pale sky above a miniature paper city at mid-day, a single tiny paper airplane parked on a paper runway at the edge of town, calm and still",
+   "emph": "35 minutes of silence",
+   "text": "Every November, for thirty-five minutes, the sky over South Korea goes quiet."
+  },
+  {
+   "img": "s02_runway.png",
+   "style": "object",
+   "prompt": "a miniature paper airport seen from above, a row of small white paper airplanes waiting on the taxiway, a folded paper control tower",
+   "text": "No plane takes off. No plane lands. Aircraft already in the air are told to circle above three kilometers, and wait."
+  },
+  {
+   "img": "s03_board.png",
+   "style": "object",
+   "prompt": "a paper airport departure board made of cut paper tiles with blank rows, a small paper suitcase and paper boarding pass in front",
+   "text": "On November nineteenth, twenty twenty-six, airlines rescheduled one hundred and thirty flights around this single half hour."
+  },
+  {
+   "img": "s04_gate.png",
+   "prompt": "paper student figures walking through a school gate at dawn, warm light, a quiet paper street lined with small paper trees",
+   "text": "The reason isn't a holiday. It isn't an emergency. It's an exam."
+  },
+  {
+   "card": {
+    "kind": "title",
+    "title": "Why Korea Stops Planes",
+    "subtitle": "for One Exam"
+   },
+   "text": "This is the story of why an entire country pauses for one test. And why that has less to do with passion than with design. We'll look at what changes on exam day, why the skies close, how it compares to the SAT, the year Korea tried two exams instead of one, and what this design costs."
+  },
+  {
+   "img": "s05_desk.png",
+   "prompt": "a single paper student figure seated at a small wooden-looking paper desk in a classroom of identical empty paper desks, morning light through cut-paper windows",
+   "ko": "수능",
+   "ko_roman": "Suneung",
+   "emph": "551,864 applicants",
+   "text": "The exam is called the Suneung, short for the College Scholastic Ability Test. This year, five hundred fifty-one thousand, eight hundred sixty-four people signed up to take it."
+  },
+  {
+   "img": "s06_city_dawn.png",
+   "style": "object",
+   "prompt": "a miniature paper city at dawn with many tiny lit windows, layered paper hills behind, soft orange sunrise cut from paper",
+   "text": "It begins at eight forty in the morning, and runs until late afternoon. Korean, math, English, Korean history, social or natural sciences, and an optional second foreign language. All on one day."
+  },
+  {
+   "diagram": {
+    "kind": "timeline",
+    "title": "What changes on exam day",
+    "points": [
+     [
+      "Morning",
+      "Offices open at 10 a.m."
+     ],
+     [
+      "Rush hour",
+      "Extra subway trains"
+     ],
+     [
+      "Test sites",
+      "Cars stopped 200 m away"
+     ],
+     [
+      "13:05",
+      "All flights held"
+     ]
+    ]
+   },
+   "text": "And on that day, the country adjusts its schedule around it. Government offices and many companies push their start time back to ten a.m., so the roads stay clear for test takers. Subways add extra trains during the morning rush."
+  },
+  {
+   "img": "s07_police.png",
+   "prompt": "a paper police motorcycle carrying a paper student figure with a backpack along a paper street, speed lines made of thin paper strips",
+   "text": "Around test sites, traffic is restricted. And if a student is running late, a police car or motorcycle may carry them to the gate."
+  },
+  {
+   "img": "s08_cheer.png",
+   "prompt": "small paper figures standing behind a low paper fence outside a school gate holding blank paper banners and paper thermos cups, early morning",
+   "text": "Outside the gates, younger students and families gather before sunrise, holding signs and handing out warm drinks. Then the gates close, and everything goes quiet."
+  },
+  {
+   "img": "s09_phone_box.png",
+   "style": "object",
+   "prompt": "a small paper basket holding folded paper smartphones and a paper wristwatch on a paper table, neat and orderly",
+   "text": "Inside, phones and smartwatches are not allowed. Even the exam papers have their own story. The people who write the questions are kept in an isolated location for weeks, cut off from the outside, until the test is over."
+  },
+  {
+   "img": "s10_speaker.png",
+   "style": "object",
+   "prompt": "a paper classroom loudspeaker mounted on a paper wall above a blackboard, soft sound wave rings cut from paper spreading outward",
+   "emph": "13:05",
+   "text": "Then, at one oh five in the afternoon, comes the most protected part of the day: the English listening section."
+  },
+  {
+   "img": "s11_headphones.png",
+   "prompt": "rows of paper student figures in a quiet paper classroom leaning toward their desks, listening carefully, very still atmosphere",
+   "text": "For thirty-five minutes, recorded audio plays through classroom speakers across the country. Each recording plays once. One loud engine overhead, and a student could miss a question they will never hear again."
+  },
+  {
+   "img": "s12_drone.png",
+   "style": "object",
+   "prompt": "a small paper helicopter and a tiny paper drone resting on a paper helipad, propellers still, quiet blue paper sky",
+   "text": "So the skies close. Not just airliners. Helicopters, light aircraft, and drones are grounded too."
+  },
+  {
+   "diagram": {
+    "kind": "list",
+    "title": "13:05 to 13:40",
+    "items": [
+     "Takeoffs stopped nationwide",
+     "Planes in the air hold above 3 km",
+     "Helicopters and drones grounded",
+     "Only emergency flights allowed"
+    ]
+   },
+   "text": "Only emergency aircraft are allowed to fly. Everything else waits, until the audio stops."
+  },
+  {
+   "img": "s13_globe.png",
+   "style": "object",
+   "prompt": "a paper globe on a small paper stand, beside it a paper pencil and a stack of paper test booklets, warm desk scene",
+   "text": "If you grew up in the United States, or the U.K., this may be hard to picture. So let's put it next to something familiar. The SAT."
+  },
+  {
+   "diagram": {
+    "kind": "compare",
+    "left": {
+     "title": "SAT (US)",
+     "lines": [
+      "7-8 test dates a year",
+      "About 2 h 14 min",
+      "Retake as often as you like"
+     ]
+    },
+    "right": {
+     "title": "Suneung (Korea)",
+     "lines": [
+      "One day a year",
+      "About 8 hours",
+      "Next chance: a year later"
+     ]
+    },
+    "verdict": "Different starting points"
+   },
+   "text": "In the U.S., the SAT is offered around seven or eight times a year. The digital version takes a little over two hours. You can retake it, and many colleges combine your best section scores across attempts."
+  },
+  {
+   "img": "s14_folder.png",
+   "style": "object",
+   "prompt": "an open paper folder spread on a desk showing blank paper report cards, a paper essay page, a paper medal and a paper letter, neatly arranged",
+   "text": "And an American college application is a bundle. Grades, essays, activities, recommendations. Some colleges don't require test scores at all."
+  },
+  {
+   "img": "s14_folder.png",
+   "style": "object",
+   "text": "That bundle means no single morning carries the whole weight. A bad test day can be balanced by four years of grades, or simply by taking the test again a couple of months later."
+  },
+  {
+   "img": "s15_door.png",
+   "style": "object",
+   "prompt": "a single tall paper door standing alone in an open paper landscape, a narrow paper path leading straight to it",
+   "text": "The Suneung starts from the opposite design. One test. One day. One national score, that universities across the country can read the same way."
+  },
+  {
+   "card": {
+    "kind": "reversal",
+    "strike": "Because students care so much?",
+    "punch": "Because there is only one day"
+   },
+   "text": "So the planes don't stop because of passion. They stop because, if this one day goes wrong, there's no second day to fall back on."
+  },
+  {
+   "img": "s16_1993.png",
+   "style": "object",
+   "prompt": "two paper calendar pages side by side pinned on a paper wall, one with a paper sun for summer and one with paper autumn leaves, no numbers",
+   "emph": "1993: Two exams",
+   "text": "And here's the part most people don't know. Korea actually tried a second chance. In nineteen ninety-three, the very first Suneung was held twice. Once in August, and once in November."
+  },
+  {
+   "img": "s17_textbooks.png",
+   "style": "object",
+   "prompt": "a tall stack of old paper textbooks tied with string next to a fresh single paper test booklet, contrast of old and new",
+   "text": "It replaced an older national exam that focused heavily on textbook knowledge. The new test was meant to measure reasoning, which is where the name 'scholastic ability' comes from."
+  },
+  {
+   "img": "s18_scales.png",
+   "style": "object",
+   "prompt": "a paper balance scale tipped to one side, a light paper feather on the high pan and a heavy paper stone on the low pan",
+   "text": "Students could use the better of their two scores. It sounded fair. But the August exam turned out to be much easier than the November one."
+  },
+  {
+   "diagram": {
+    "kind": "list",
+    "title": "The problem with two tests",
+    "items": [
+     "Same score, different difficulty",
+     "Which test did you take?",
+     "Scores no longer compare fairly"
+    ]
+   },
+   "text": "And that broke the whole point of a national score. If two tests aren't equally hard, the same number no longer means the same thing."
+  },
+  {
+   "img": "s19_one_page.png",
+   "style": "object",
+   "prompt": "a single paper calendar page with paper autumn leaves pinned alone on a paper wall, one paper pin, calm composition",
+   "text": "So after a single year, the two-exam plan was dropped. Since then, the Suneung has been held once a year, in November."
+  },
+  {
+   "img": "s19_one_page.png",
+   "style": "object",
+   "text": "Notice what the designers chose here. They had a second chance, and they gave it up. Not because second chances are bad, but because, for this system, a fair comparison mattered more than flexibility."
+  },
+  {
+   "img": "s20_identical.png",
+   "prompt": "a wide view of many identical paper desks in perfect rows, each with an identical paper test booklet and a paper pencil, paper clock on the wall",
+   "text": "Think about what one exam gives you. Everyone answers the same questions, at the same minute, under the same conditions. That makes a national score simple to compare."
+  },
+  {
+   "diagram": {
+    "kind": "list",
+    "title": "How scores come back",
+    "items": [
+     "Standard score",
+     "Percentile",
+     "Grade 1 to 9  (Grade 1 = about top 4%)"
+    ]
+   },
+   "text": "Weeks later, results come back as a standard score, a percentile, and a grade from one to nine. In most subjects, grade one roughly means the top four percent. In other words, your result depends partly on how everyone else did, on that same morning."
+  },
+  {
+   "img": "s20_identical.png",
+   "text": "A ranking like that only works if everyone faced exactly the same test. Two different exam days would mean two different tests. That's exactly what went wrong in nineteen ninety-three."
+  },
+  {
+   "img": "s21_shield.png",
+   "style": "object",
+   "prompt": "a paper umbrella shielding a tiny paper school building from paper raindrops and a tiny paper airplane, protective feeling",
+   "text": "But it also means the conditions themselves have to be protected. A late bus. A noisy street. An airplane overhead. In a one-day system, each of those stops being one person's bad luck, and becomes a problem for the whole exam."
+  },
+  {
+   "img": "s22_fork.png",
+   "style": "object",
+   "prompt": "a paper road splitting into two paths in a miniature paper landscape, a small paper signpost with blank arrows at the fork",
+   "text": "To be fair, the Suneung isn't the only way into a Korean university. Many seats are filled through school records and other application routes."
+  },
+  {
+   "img": "s23_gate_bar.png",
+   "style": "object",
+   "prompt": "a paper toll gate with a striped paper barrier arm across a paper road, a small paper booth beside it",
+   "text": "But many of those routes still require a minimum Suneung grade. And for a large share of seats, especially at the most competitive universities, the score is still the main deciding factor."
+  },
+  {
+   "diagram": {
+    "kind": "list",
+    "title": "By the numbers (Nov 2026)",
+    "items": [
+     "551,864 applicants",
+     "130 flights rescheduled",
+     "35 minutes of closed skies"
+    ]
+   },
+   "text": "Put it together, and that's the scale. More than half a million test takers. A hundred and thirty flights moved. Thirty-five minutes of closed skies."
+  },
+  {
+   "img": "s24_clock.png",
+   "style": "object",
+   "prompt": "a paper wall clock next to a paper calendar with all pages flipped up, suggesting a whole year passing, soft light",
+   "emph": "The cost",
+   "text": "Now, every system has a cost. And this one's cost is built into the very same design."
+  },
+  {
+   "diagram": {
+    "kind": "list",
+    "title": "The cost of one day",
+    "items": [
+     "One bad morning can cost a year",
+     "All the pressure lands on one date",
+     "Many people take it again"
+    ]
+   },
+   "text": "If a student gets sick, panics, or simply has a bad morning, the next chance is a full year away."
+  },
+  {
+   "img": "s25_repeat.png",
+   "prompt": "a single paper figure seated at a small paper desk by a cut-paper window at night, a paper lamp glowing, a blank paper calendar on the wall",
+   "emph": "170,000+ retaking",
+   "text": "So many people take it again. This year, more than one hundred seventy thousand applicants were repeat test-takers. That's the highest number in over two decades."
+  },
+  {
+   "img": "s26_stars.png",
+   "style": "object",
+   "prompt": "three small paper stars on a paper shelf, two of them slightly larger and brighter, simple and clean",
+   "text": "And they tend to do well. On last year's exam, about two out of three students with top average grades in Korean, math, and inquiry subjects were graduates, not current high schoolers."
+  },
+  {
+   "img": "s27_academy.png",
+   "style": "object",
+   "prompt": "a tall paper building at night with many small lit paper windows in rows, a quiet paper street below",
+   "text": "Around that second attempt, a whole industry of retake academies has grown up, built for people who spend another year preparing for the same single day."
+  },
+  {
+   "img": "s28_waiting.png",
+   "prompt": "paper figures waiting outside a closed school gate in the late afternoon, long paper shadows, warm golden light",
+   "text": "And every year, outside the school gates, families wait through the afternoon. For a test that lasts one day, but can shape the years that follow."
+  },
+  {
+   "img": "s28_waiting.png",
+   "text": "This isn't a question of more pressure or less pressure than anywhere else. It's a different shape of pressure. Instead of being spread across many dates and many parts of an application, it gathers on one Thursday in November."
+  },
+  {
+   "diagram": {
+    "kind": "compare",
+    "left": {
+     "title": "Many chances",
+     "lines": [
+      "Risk spread out",
+      "Many inputs",
+      "Harder to compare"
+     ]
+    },
+    "right": {
+     "title": "One day",
+     "lines": [
+      "Risk in one place",
+      "One number",
+      "Easy to compare"
+     ]
+    },
+    "verdict": "Neither choice is free"
+   },
+   "text": "Step back, and you can see the trade. The SAT approach spreads the risk across many chances and many inputs, but the results are harder to compare directly. The Suneung approach puts everything into one comparable number, but concentrates all of the risk on a single day. Neither choice is free."
+  },
+  {
+   "img": "s01_sky.png",
+   "style": "object",
+   "text": "So when the planes stop over Korea, it isn't really a show of how seriously anyone takes exams. It's what a one-day system needs, in order to work."
+  },
+  {
+   "img": "s29_takeoff.png",
+   "style": "object",
+   "prompt": "a small white paper airplane lifting off from a paper runway into a soft paper sky with layered paper clouds, hopeful mood",
+   "text": "At one forty, the listening section ends. The audio stops. And somewhere above the clouds, the first plane begins its descent."
+  },
+  {
+   "card": {
+    "kind": "end",
+    "channel": "Only in Korea",
+    "line": "How systems work. Nothing more."
+   },
+   "emph": "What about where you live?",
+   "text": "What about where you live? Does anything stop for an exam? Tell me in the comments. I'd genuinely like to know. And if you'd like to see how other systems in Korea work, from housing to hagwons, subscribe. Thanks for watching."
+  }
+ ],
+ "chapter_segments": [
+  1,
+  6,
+  12,
+  16,
+  22,
+  28,
+  35
+ ],
+ "thumb": {
+  "img": "s01_sky.png",
+  "kicker": "ONE EXAM.",
+  "punch": "NO PLANES."
+ },
+ "desc": {
+  "lead": "Every November, South Korea stops all takeoffs and landings for 35 minutes. The reason: one national exam. Here's how the Suneung system works, why it happens on a single day, and what that design costs.",
+  "chapters": [
+   [
+    "0:00",
+    "The 35 minutes"
+   ],
+   [
+    "",
+    "What changes on exam day"
+   ],
+   [
+    "",
+    "Why the skies close"
+   ],
+   [
+    "",
+    "Suneung vs the SAT"
+   ],
+   [
+    "",
+    "1993: the year Korea tried two exams"
+   ],
+   [
+    "",
+    "Why one day"
+   ],
+   [
+    "",
+    "The cost"
+   ]
+  ],
+  "refs": [
+   "Ministry of Land, Infrastructure and Transport (Korea), flight control notice for the 2027 CSAT English listening section, 13:05-13:40, Nov 19, 2026 (via Korea.kr / news reports)",
+   "2027 CSAT applicant count 551,864 and repeat test-taker figures (Money Today, Sep 8, 2026; Wikitree)",
+   "Korea.kr policy briefing: office start times moved to 10 a.m., test-site traffic control",
+   "Kyunghyang Shinmun / Edujin: graduates' share of top average grades in the 2026 CSAT, 65.7%",
+   "Seoul Shinmun archives (1993) and The Fact: first CSAT held twice in August and November 1993",
+   "College Board / test prep references: SAT dates per year, digital SAT length, superscoring"
+  ],
+  "tags": [
+   "Korea",
+   "South Korea",
+   "Suneung",
+   "Korean education",
+   "CSAT",
+   "SAT",
+   "Korean culture",
+   "explained"
+  ]
+ },
+ "sub_replace": {
+  "five hundred fifty-one thousand, eight hundred sixty-four": "551,864",
+  "one hundred and thirty": "130",
+  "A hundred and thirty": "130",
+  "one hundred seventy thousand": "170,000",
+  "November nineteenth, twenty twenty-six": "November 19, 2026",
+  "thirty-five": "35",
+  "Thirty-five": "35",
+  "eight forty in the morning": "8:40 a.m.",
+  "ten a.m.": "10 a.m.",
+  "one oh five in the afternoon": "1:05 p.m.",
+  "At one forty": "At 1:40",
+  "three kilometers": "3 km",
+  "nineteen ninety-three": "1993",
+  "from one to nine": "from 1 to 9",
+  "grade one": "grade 1",
+  "four percent": "4%",
+  "two out of three": "2 out of 3",
+  "seven or eight times": "7 or 8 times"
+ }
+}

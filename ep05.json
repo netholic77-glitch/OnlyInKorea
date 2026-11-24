@@ -1,0 +1,448 @@
+{
+  "_rules": [
+    "Subject of every sentence is the SYSTEM, never 'Koreans are...'.",
+    "No ranking words: better/worse/advanced/backward/weird/crazy/insane/should learn from.",
+    "No politics, history disputes, territory, military, or government policy evaluation.",
+    "Every episode must contain a COST section."
+  ],
+  "episode": 5,
+  "slug": "hagwon",
+  "title": "Why Seoul Puts a 10 PM Limit on These Classrooms",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-18%",
+  "images_dir": "ep05_images",
+  "audio_dir": "ep05_audio",
+  "out": "EP05_Hagwon_FINAL.mp4",
+  "segments": [
+    {
+      "img": "s01_clock.png",
+      "style": "scene",
+      "prompt": "paper commercial building with warm classroom windows and analog clock showing ten, main objects right, empty left third for thumbnail, a teacher and a few students visible in the windows, a parent waiting outside beside a small parked car, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "emph": "Seoul · Teaching ends by 10 PM",
+      "text": "In Seoul, an evening lesson can run into a citywide time limit. For school curriculum hagwons, the permitted teaching hours end at ten p.m. A classroom timetable has to fit inside that boundary."
+    },
+    {
+      "img": "s02_night.png",
+      "style": "scene",
+      "prompt": "miniature paper commercial building at night, empty desks visible in lit upper windows, students listening to a teacher in the lit classroom windows, a pair of students arriving with backpacks, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "ko": "학원",
+      "ko_roman": "Hagwon",
+      "text": "This can happen after a full school day. A separate provider, in a separate building, offers another scheduled lesson. Korea calls this kind of private teaching institute a hagwon."
+    },
+    {
+      "card": {
+        "kind": "title",
+        "title": "How Hagwons Work",
+        "subtitle": "A lesson after the school day"
+      },
+      "text": "Follow an illustrative evening. School finishes, a paid lesson begins elsewhere, and another set of tasks enters the timetable. The same day can contain several distinct learning schedules."
+    },
+    {
+      "img": "s04_definition.png",
+      "style": "scene",
+      "prompt": "paper teaching institute cutaway with blank registration forms and textbooks, a staff member explaining enrollment to a parent and student at the reception desk, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "Hagwon is a broad term. This episode follows the school curriculum side, using a fictional mathematics course to show how the arrangement works."
+    },
+    {
+      "diagram": {
+        "kind": "list",
+        "title": "The boundary in this episode",
+        "items": [
+          "Seoul local rules",
+          "School curriculum teaching",
+          "Teaching ends by 10 PM"
+        ]
+      },
+      "text": "The ten p.m. limit in this episode is Seoul's rule. Local regulations matter, so a timetable in another region needs its own check. "
+    },
+    {
+      "img": "s06_subjects.png",
+      "style": "scene",
+      "prompt": "paper geometric solids blank books and musical keyboard around a small classroom, a mathematics tutor with student at the geometry table and a music teacher with learner at the keyboard, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "The broader sector includes different subjects and learning goals. A language lesson, an arts course, and school subject support can have different purposes. "
+    },
+    {
+      "img": "s07_classroom.png",
+      "style": "scene",
+      "prompt": "commercial paper building cutaway with empty classroom occupying one floor, a teacher leading a small class on one floor, pedestrians visiting the shops below, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "The classroom can occupy part of an ordinary commercial building. A street full of businesses can also contain scheduled learning behind upper floor windows. Education becomes one use among several within the building."
+    },
+    {
+      "img": "s08_street.png",
+      "style": "scene",
+      "prompt": "paper commercial street at night, blank signs and empty classroom desks upstairs, students with backpacks walking along the street, a parent collecting a child beside a parked car, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "Signs and lit windows can suggest a learning district. To understand a particular course, we need to go past that street image and look at its subject, schedule, and operator."
+    },
+    {
+      "img": "s09_registration.png",
+      "style": "scene",
+      "prompt": "blank paper registration folder beside teaching room chairs and empty blackboard, an administrator organizing the registration folder while a teacher arranges the chairs, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "An operator must register a hagwon with the education authorities. The registration includes information about the curriculum, instructors, fees, and facilities. "
+    },
+    {
+      "diagram": {
+        "kind": "list",
+        "title": "A separate teaching service",
+        "items": [
+          "A registered operator",
+          "A defined course",
+          "Its own timetable and fees"
+        ]
+      },
+      "text": "That makes the course a separate service with its own operator. Enrolling connects a household to that particular service for an agreed learning arrangement."
+    },
+    {
+      "img": "s11_course.png",
+      "style": "scene",
+      "prompt": "blank enrollment card beside unprinted weekly calendar and closed textbook, a student and parent discussing the course calendar with a reception staff member, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "Our fictional course provides weekly mathematics sessions. The timetable specifies when to arrive, and the course description explains what the lessons will cover during that period."
+    },
+    {
+      "img": "s12_level.png",
+      "style": "scene",
+      "prompt": "three paper textbooks with increasingly complex geometric cutouts and blank covers, a tutor and learner comparing the three textbooks with engaged curious expressions, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "A course might organize learning by grade, by subject level, or by a particular goal. A lesson focused on review has a different starting point from advanced practice."
+    },
+    {
+      "diagram": {
+        "kind": "timeline",
+        "title": "A recurring learning cycle",
+        "points": [
+          [
+            "Explain",
+            "Introduce an idea"
+          ],
+          [
+            "Practice",
+            "Try it independently"
+          ],
+          [
+            "Review",
+            "Return to mistakes"
+          ]
+        ]
+      },
+      "text": "An explanation introduces an idea, practice tests its use, and feedback reveals mistakes. A later lesson can return to those mistakes and build on what the learner already understands."
+    },
+    {
+      "img": "s14_example.png",
+      "style": "scene",
+      "prompt": "empty paper blackboard beside paper fraction circles, no numerals, a teacher explaining fraction circles to three attentive students at desks, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "Imagine a lesson about fractions. The course can spend time on an explanation, work through examples, and then set independent practice. That is how the booked teaching time is used."
+    },
+    {
+      "img": "s15_review.png",
+      "style": "scene",
+      "prompt": "paper desk with reopened blank practice sheets geometric cutouts and pencil, a tutor sitting beside a student and reviewing the practice sheets together, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "Repeated meetings allow an instructor to revisit earlier material. A course built around one subject can devote several meetings to a skill that still needs work."
+    },
+    {
+      "img": "s16_ahead.png",
+      "style": "scene",
+      "prompt": "paper stepping stones passing an open blank textbook toward another chapter divider, a student stepping toward the next chapter while a tutor gestures encouragingly, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "A different course might prepare material that will appear later at school. The sequence depends on that course’s particular goal."
+    },
+    {
+      "img": "s17_choices.png",
+      "style": "scene",
+      "prompt": "unprinted course timetable cards beside differently colored textbooks, a parent and student choosing between the timetable cards at a desk, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "Each option takes a subject, a level, and a portion of the week. A household chooses a combination that has to fit the rest of its schedule."
+    },
+    {
+      "img": "s18_schoolday.png",
+      "style": "scene",
+      "prompt": "paper school building beside analog afternoon clock and closed backpack, students leaving the school gate with backpacks, a crossing guard nearby, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "The school timetable already occupies part of it. The hagwon lesson needs a start time after the learner can leave school, travel, and arrive at another building."
+    },
+    {
+      "img": "s19_travel.png",
+      "style": "scene",
+      "prompt": "paper backpack on a path from school to a separate commercial teaching building, a student walking the route, another waiting at a bus stop with a parent, a small bus nearby, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "A nearby lesson and a lesson across town can use the same teaching period while creating different evenings. The journey belongs in the schedule alongside the classroom hour."
+    },
+    {
+      "diagram": {
+        "kind": "timeline",
+        "title": "An illustrative evening",
+        "points": [
+          [
+            "Before",
+            "Travel and eat"
+          ],
+          [
+            "7–9 PM",
+            "A booked lesson"
+          ],
+          [
+            "After",
+            "Travel home"
+          ]
+        ]
+      },
+      "text": "Picture an illustrative session starting at seven p.m. and ending at nine p.m. That is two hours in the classroom. Getting there, eating, and getting home still have to fit around it."
+    },
+    {
+      "img": "s21_clockwork.png",
+      "style": "scene",
+      "prompt": "two paper analog clocks showing seven and nine beside miniature empty classroom, a teacher and students using the classroom between the two clocks, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "Those two hours can include explanation, questions, and practice. A course timetable describes the teaching period. The learner's evening also includes the steps needed to reach that room and leave it."
+    },
+    {
+      "img": "s22_homework.png",
+      "style": "scene",
+      "prompt": "paper home desk with two distinct stacks of blank study sheets and a closed textbook, a student studying at the home desk while a parent brings a glass of water, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "If the course assigns work to complete at home, that work needs another place in the day. A lesson can end while tasks connected to it remain. Homework joins whatever the school has already assigned."
+    },
+    {
+      "img": "s23_slots.png",
+      "style": "scene",
+      "prompt": "blank daily paper calendar with movable blocks for school travel lessons meals and sleep, a family arranging removable timetable blocks together around the calendar, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "A second course requires another slot. Adding one appointment can affect travel, meals, and the time left between commitments. The whole schedule needs coordination."
+    },
+    {
+      "diagram": {
+        "kind": "list",
+        "title": "Seoul teaching hours",
+        "items": [
+          "5 AM to 10 PM",
+          "A limit on covered teaching",
+          "Courses can end earlier"
+        ]
+      },
+      "text": "Seoul's education office states that the teaching window for the covered institutions runs from five a.m. to ten p.m. The education office links this boundary to regular schooling and student health."
+    },
+    {
+      "img": "s25_boundary.png",
+      "style": "scene",
+      "prompt": "paper classroom path ending at analog clock showing ten and closed classroom door, a teacher closing the classroom door and students leaving with backpacks, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "That boundary limits how late the covered teaching can continue. A course that ends earlier has already finished before the permitted window closes."
+    },
+    {
+      "img": "s26_scope.png",
+      "style": "scene",
+      "prompt": "abstract paper Seoul silhouette beside miniature classroom and analog clock, no labels, a miniature teacher and learner beside the Seoul model pointing toward the classroom, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "We are following Seoul's school curriculum teaching system. A different category of learning facility can have different operating conditions, and a different locality has its own rules."
+    },
+    {
+      "img": "s27_studyroom.png",
+      "style": "scene",
+      "prompt": "empty paper self-study room with partitioned desks lamps and blank books, students reading quietly at partitioned desks and an attendant at the entrance, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "Seoul's guidance notes that an approved extension can apply to that category. A room used for independent study needs to be understood through its own operating rules."
+    },
+    {
+      "img": "s28_oversight.png",
+      "style": "scene",
+      "prompt": "paper magnifying glass above blank attendance ledger and clock, an education office staff member reviewing the operating ledger with an institute manager, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "The education office also supervises compliance. Its guidance discusses checks on teaching hours and other operating requirements. The time limit belongs to an enforceable framework for the provider's activities."
+    },
+    {
+      "img": "s29_fees.png",
+      "style": "scene",
+      "prompt": "unprinted fee notice card and paper receipt beside course folder, a receptionist showing the fee notice to a parent and issuing a receipt, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "The law requires providers to display relevant fees and refund information, and to issue receipts when fees are collected. A paid lesson brings a transaction alongside the learning schedule."
+    },
+    {
+      "img": "s30_receipt.png",
+      "style": "scene",
+      "prompt": "blank timetable and receipt beside textbook and small blank banknote stack, a parent reviewing the receipt and course timetable with a student, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "For the household, those details connect a payment to a particular course. The timetable tells it when teaching happens. The fee information tells it what is being charged for the arrangement."
+    },
+    {
+      "diagram": {
+        "kind": "list",
+        "title": "Follow the whole time cost",
+        "items": [
+          "The lesson",
+          "Travel to and from it",
+          "Practice assigned for home"
+        ]
+      },
+      "text": "Another cost is time. An evening contains a limited number of hours. A lesson, its travel, and any assigned practice all draw on the same available stretch of the day."
+    },
+    {
+      "img": "s32_rest.png",
+      "style": "scene",
+      "prompt": "miniature paper bed and textbook on opposite sides of blank evening calendar, a student putting away a textbook beside the bed while a small fictional paper cat sleeps nearby, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "That creates a practical tradeoff with rest and unstructured time. Adding an appointment uses a slot that could hold something else. The effect depends on the actual timetable, travel distance, and work assigned."
+    },
+    {
+      "img": "s33_coordination.png",
+      "style": "scene",
+      "prompt": "paper bowl backpack classroom desk and clock around blank weekly planner, a family planning dinner, travel and lesson times together at the table, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "Coordination can extend to the household. Meals, pickup arrangements, and other appointments may have to be matched to the lesson. The course can be a single booking with several consequences for the surrounding evening."
+    },
+    {
+      "img": "s34_expectations.png",
+      "style": "scene",
+      "prompt": "blank practice sheets beside empty assessment card and folded pencil, a teacher giving feedback as a student thinks through a practice problem, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "There can also be a gap between buying teaching and obtaining a particular result. A course supplies organized instruction and practice. What a learner understands afterwards still depends on how those activities work for that learner."
+    },
+    {
+      "img": "s35_variation.png",
+      "style": "scene",
+      "prompt": "three blank paper calendars with different amounts of lesson blocks, different small families comparing their distinct weekly calendars, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "Different course choices produce different weeks. One arrangement might add a short review session. Another might combine several subjects. The institutional system supplies options while individual timetables vary from household to household."
+    },
+    {
+      "img": "s36_feedback.png",
+      "style": "scene",
+      "prompt": "paper arrows connecting blank lesson board practice sheet and feedback folder, a teacher explaining, a learner practicing, and the pair reviewing work together around the paper cycle, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "A course offers scheduled attention to a defined subject, a sequence of practice, and opportunities to get feedback outside the regular school timetable."
+    },
+    {
+      "img": "s37_district.png",
+      "style": "scene",
+      "prompt": "paper homes connected by walking paths to commercial street with upstairs classrooms, students and parents walking from homes toward classrooms, a small bus on the outer road, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "Put several such services close together and learning also becomes part of a neighborhood's daily movement. Buildings, routes, and appointment times connect the home to a market of teaching providers."
+    },
+    {
+      "diagram": {
+        "kind": "list",
+        "title": "How the service is organized",
+        "items": [
+          "Provider and registration",
+          "Course and timetable",
+          "Local operating rules"
+        ]
+      },
+      "text": "The system has several linked layers. Registration identifies the provider, the course defines the service, the timetable allocates teaching time, and local rules set boundaries around how that service can operate."
+    },
+    {
+      "img": "s39_rule_clock.png",
+      "style": "scene",
+      "prompt": "paper clock showing ten beside unprinted timetable and classroom doorway, students packing their bags and a teacher tidying the classroom beside the clock, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "That explains why a clock can be a powerful introduction to hagwons. A lesson is part of education, a paid service, and a scheduled use of a building. The same clock touches all of those functions."
+    },
+    {
+      "img": "s40_end_day.png",
+      "style": "scene",
+      "prompt": "paper path from closed classroom building to warmly lit home at night, a parent and child walking home together, a neighbor walking a small dog near the home, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "At the end of the fictional evening, the course has finished and the learner heads home. Travel continues after teaching stops. Any work assigned for home follows its own place in the remaining schedule."
+    },
+    {
+      "diagram": {
+        "kind": "timeline",
+        "title": "Follow the whole chain",
+        "points": [
+          [
+            "Book",
+            "Choose a course"
+          ],
+          [
+            "Attend",
+            "Use the teaching time"
+          ],
+          [
+            "Home",
+            "Fit it into the day"
+          ]
+        ]
+      },
+      "text": "The arrangement becomes clearer when we follow the whole chain. A household books a course, the provider teaches at an agreed time, and the learner carries the experience into the rest of the day."
+    },
+    {
+      "img": "s42_questions.png",
+      "style": "scene",
+      "prompt": "paper textbook weekly planner analog clock and blank course card still life, a parent, student and teacher discussing the course card and weekly planner, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "What does the course teach, when does it meet, how is it paid for, and how much of the evening does the whole arrangement actually use?"
+    },
+    {
+      "img": "s43_return.png",
+      "style": "scene",
+      "prompt": "paper classroom building at night with some dark windows and clock showing ten, students leaving with backpacks and a teacher switching off classroom lights, a parent waiting at the curb, fictional cut-paper puppet people with simple ink-drawn friendly faces, natural varied poses and visible activity, all animals are fictional paper miniatures, no real persons, no text or labels",
+      "text": "Return to the lit windows in Seoul. Behind each one can be a different subject, timetable, and provider. The ten p.m. boundary gives us an entry point into that much larger system of scheduled learning."
+    },
+    {
+      "card": {
+        "kind": "end",
+        "channel": "Only in Korea",
+        "line": "How systems work. Nothing more."
+      },
+      "text": "Hagwons turn a portion of the week into a bookable learning service. Understanding that arrangement means following both the classroom and the time around it. This is Only in Korea."
+    }
+  ],
+  "chapter_segments": [
+    1,
+    4,
+    9,
+    12,
+    18,
+    24,
+    29,
+    36,
+    43
+  ],
+  "thumb": {
+    "img": "s01_clock.png",
+    "kicker": "AFTER SCHOOL.",
+    "punch": "UNTIL 10 PM."
+  },
+  "desc": {
+    "lead": "Seoul sets a 10 PM teaching limit for school curriculum hagwons. Follow a fictional evening course to see how registration, teaching, fees, travel, and the rest of the day fit together.",
+    "chapters": [
+      [
+        "0:00",
+        "The 10 PM boundary"
+      ],
+      [
+        "",
+        "What a hagwon provides"
+      ],
+      [
+        "",
+        "A registered teaching service"
+      ],
+      [
+        "",
+        "How a course works"
+      ],
+      [
+        "",
+        "Following an evening"
+      ],
+      [
+        "",
+        "What the time limit covers"
+      ],
+      [
+        "",
+        "Fees and the cost of time"
+      ],
+      [
+        "",
+        "The whole learning system"
+      ],
+      [
+        "",
+        "Back to the classroom windows"
+      ]
+    ],
+    "refs": [
+      "Seoul Northern District Office of Education, teaching hour compliance notice, April 6, 2026: https://bbedu.sen.go.kr/CMS/adminfo/adminfo03/adminfo0301/1355140_4973.html",
+      "Seoul Metropolitan Office of Education ordinance on private teaching institutes: https://www.law.go.kr/ordinInfoP.do?gubun=KLAW&ordinSeq=2037335",
+      "Act on Private Teaching Institutes, Article 6, registration, effective October 1, 2026: https://law.go.kr/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1018578021",
+      "Enforcement Decree, Article 5, registered curriculum, capacity, fees and timetable rules: https://www.law.go.kr/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1032714013",
+      "Act on Private Teaching Institutes, Article 15, displayed fees, refunds and receipts: https://www.law.go.kr/LSW/lsLinkCommonInfo.do?lsJoLnkSeq=1032714357",
+      "Seoul Eastern District Office of Education, institute operation FAQ: https://dbedu.sen.go.kr/CMS/civilapp/civilapp02/civilapp0204/civilapp020407/index.html",
+      "Seoul Seongdong Gwangjin District Office of Education, operating guidance: https://sdgjedu.sen.go.kr/CMS/admserv/admserv07/admserv0702/index.html"
+    ],
+    "tags": [
+      "Korea",
+      "South Korea",
+      "hagwon",
+      "Korean education",
+      "Only in Korea",
+      "Seoul"
+    ]
+  },
+  "sub_replace": {
+    "ten p.m.": "10 PM",
+    "five a.m.": "5 AM",
+    "seven p.m.": "7 PM",
+    "nine p.m.": "9 PM",
+    "two hours": "2 hours",
+    "ten p.m. A": "10 PM. A",
+    "ten p.m. The": "10 PM. The",
+    "nine p.m. That": "9 PM. That"
+  }
+}

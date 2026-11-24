@@ -1,0 +1,459 @@
+{
+  "_rules": [
+    "Subject of every sentence is the SYSTEM, never 'Koreans are...'.",
+    "No ranking words: better/worse/advanced/backward/weird/crazy/insane/should learn from.",
+    "No politics, history disputes, territory, military, or government policy evaluation.",
+    "Every episode must contain a COST section."
+  ],
+  "episode": 3,
+  "slug": "age",
+  "title": "Why Koreans Ask Your Age Before Your Name",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-5%",
+  "images_dir": "ep03_images",
+  "audio_dir": "ep03_audio",
+  "out": "EP03_Age_FINAL.mp4",
+  "segments": [
+    {
+      "img": "s01_cafe_meet.png",
+      "style": "object",
+      "prompt": "a cozy miniature paper cafe table with two small paper coffee cups and a blank paper notebook, warm morning light, cut paper details",
+      "emph": "Within 5 minutes",
+      "text": "Within five minutes of meeting someone new in South Korea, a very specific question will almost certainly appear. Before people ask what you do for a living or where you studied, they will ask: Which year were you born?"
+    },
+    {
+      "img": "s02_question_bubble.png",
+      "style": "object",
+      "prompt": "a large cut-paper question mark hovering over miniature paper coffee cups, warm neutral tones",
+      "ko": "몇 년생이세요?",
+      "ko_roman": "Myeot nyeon-saeng-i-se-yo?",
+      "text": "To outside observers, this question can feel startlingly blunt. In many Western cultures, asking an acquaintance their exact age is considered nosy, impolite, or socially uncomfortable."
+    },
+    {
+      "img": "s03_kdrama_words.png",
+      "style": "object",
+      "prompt": "layered paper cards displaying stylized Korean letters in ink, arranged neatly on a wooden-looking paper desk",
+      "text": "Global fans of Korean pop music and television dramas already recognize the words that follow. Terms like oppa, unnie, hyeong, and nuna appear in almost every show, often understood abroad as cute nicknames or romantic labels."
+    },
+    {
+      "card": {
+        "kind": "reversal",
+        "strike": "CUTE NICKNAMES",
+        "punch": "MANDATORY GRAMMAR"
+      },
+      "text": "Yet these words are not playful nicknames. They are functional traffic signals inside one of the most strictly regulated communication systems in the modern world."
+    },
+    {
+      "card": {
+        "kind": "title",
+        "title": "Why Koreans Ask Your Age",
+        "subtitle": "Before Your Name"
+      },
+      "text": "This is the story of why a modern society calculates age down to the calendar year before a conversation can begin. And why that habit refused to disappear, even when the law tried to erase it."
+    },
+    {
+      "img": "s06_calendar_2023.png",
+      "style": "object",
+      "prompt": "a cut-paper desk calendar turned to a clean page showing June twenty twenty-three, a paper gavel beside it",
+      "emph": "June 28, 2023",
+      "text": "On June twenty-eighth, twenty twenty-three, South Korea made international headlines. The national government officially standardized how ages are calculated, abolishing the traditional counting age system."
+    },
+    {
+      "img": "s07_world_news.png",
+      "style": "object",
+      "prompt": "a miniature paper globe surrounded by small folded paper newspaper front pages, soft neutral lighting",
+      "text": "Under the old system, every baby was considered one year old on the day of birth, and everyone gained an extra year together on January first. A baby born on New Year's Eve turned two years old just two days later."
+    },
+    {
+      "diagram": {
+        "kind": "compare",
+        "left": {
+          "title": "Traditional System",
+          "lines": [
+            "1 year old at birth",
+            "+1 year every January 1st",
+            "Multiple official ages"
+          ]
+        },
+        "right": {
+          "title": "Standardized Law",
+          "lines": [
+            "0 years old at birth",
+            "+1 year on birthday",
+            "Unified international age"
+          ]
+        }
+      },
+      "text": "The reform replaced that method with the international standard. Global news outlets reported that all South Koreans had suddenly become one or two years younger overnight."
+    },
+    {
+      "img": "s09_cafe_unmoved.png",
+      "prompt": "a bustling miniature paper street corner outside a cafe, paper figures chatting calmly, tranquil morning atmosphere",
+      "text": "On paper, the change was sweeping. Contracts, medical records, and government paperwork were unified. But inside Korean coffee shops, university hallways, and company offices, everyday greetings did not change at all."
+    },
+    {
+      "img": "s10_two_people.png",
+      "style": "object",
+      "prompt": "two paper silhouette figures standing on opposite sides of a miniature paper desk, a measuring compass between them",
+      "text": "People still asked for your birth year within the first few minutes of introduction. To understand why the new statute could not change how people speak, you have to look at the machinery of the Korean language itself."
+    },
+    {
+      "img": "s11_verb_blocks.png",
+      "style": "object",
+      "prompt": "neat rows of blank wooden-textured paper building blocks arranged symmetrically, macro paper still life",
+      "text": "In English or Spanish, sentences have a neutral baseline. You can say Hello, Where are you going, or Did you eat lunch without declaring whether you are superior, equal, or subordinate to the listener."
+    },
+    {
+      "diagram": {
+        "kind": "compare",
+        "left": {
+          "title": "Jondaet-mal (존댓말)",
+          "lines": [
+            "Polite / honorific endings",
+            "Required for elders & seniors",
+            "Maintains social distance"
+          ]
+        },
+        "right": {
+          "title": "Bann-mal (반말)",
+          "lines": [
+            "Casual / plain endings",
+            "Used among same birth year",
+            "Signals intimate equality"
+          ]
+        }
+      },
+      "text": "In the Korean language, a neutral sentence does not exist. Every single verb must end in a conjugation that explicitly registers your relative social rank compared to the person you are speaking with."
+    },
+    {
+      "img": "s13_two_registers.png",
+      "style": "object",
+      "prompt": "two parallel folded paper railway tracks diverging on a clean paper plane, minimal composition",
+      "ko": "존댓말 vs 반말",
+      "ko_roman": "Jondaet-mal vs Bann-mal",
+      "text": "There are two broad linguistic tracks. Formal, polite speech is called jondaet-mal. Casual, informal speech is called bann-mal. Between them lie distinct levels of honorific grammar, each carrying exact social weight."
+    },
+    {
+      "img": "s14_awkward_silence.png",
+      "prompt": "two paper figures seated at a small table looking at each other across an empty gap, quiet and thoughtful mood",
+      "text": "Imagine trying to build a bridge across a river without knowing which bank is higher. If two people meet and neither knows the other's age, they cannot comfortably select their sentence endings."
+    },
+    {
+      "img": "s15_grammar_standoff.png",
+      "style": "object",
+      "prompt": "a delicate paper scale tilting unevenly with two small cut-paper weights on either side",
+      "text": "If Person A uses casual speech while Person B uses formal speech, Person A has unilaterally declared authority over Person B. If a stranger speaks casually to someone older, it is taken as an instant personal insult."
+    },
+    {
+      "img": "s16_formal_wall.png",
+      "style": "object",
+      "prompt": "a thin translucent paper screen separating two warm paper lanterns, soft shadows and clean lines",
+      "text": "Conversely, if both speakers remain in formal speech indefinitely, they preserve safety, but they can never cross into genuine informal warmth. To unlock casual speech and build closer friendship, the grammar demands clarity."
+    },
+    {
+      "diagram": {
+        "kind": "list",
+        "title": "The Linguistic Deadlock",
+        "items": [
+          "No neutral verb conjugations exist",
+          "Unilateral casual speech is an insult",
+          "Endless formal speech prevents intimacy",
+          "An objective tiebreaker is required"
+        ]
+      },
+      "text": "Because grammar enforces this choice on every verb, Korean speakers need an objective tiebreaker. They cannot negotiate their status subjectively; they need a clean, undisputed metric."
+    },
+    {
+      "img": "s18_birth_tag.png",
+      "style": "object",
+      "prompt": "a stack of vintage-style paper tags with calendar years stamped in ink, resting on a paper desk",
+      "text": "In ancient times, social standing was anchored in hereditary class. In modern corporate settings, it can be organized around official job titles. But when two citizens meet outside of work, there are no job titles to lean on."
+    },
+    {
+      "img": "s19_id_cards.png",
+      "style": "object",
+      "prompt": "two blank rectangular paper cards resting side by side with four-digit year numbers cleanly embossed",
+      "emph": "Birth year as coordinate",
+      "text": "The metric that modern Korean society settled on is the calendar birth year. Not your accomplishments, not your wealth, not your personality. Simply the year your name entered the civil registry."
+    },
+    {
+      "img": "s20_school_cohort.png",
+      "prompt": "a row of tiny paper school satchels lined up beneath a classroom paper chalkboard, nostalgic morning light",
+      "text": "This habit formed largely around the school system. In South Korea, children enter elementary school in fixed annual cohorts. Everyone entering first grade in the same school year was born in that same twelve-month window."
+    },
+    {
+      "diagram": {
+        "kind": "list",
+        "title": "The Four Social Titles",
+        "items": [
+          "Hyeong (형): male to older male",
+          "Nuna (누나): male to older female",
+          "Oppa (오빠): female to older male",
+          "Unnie (언니): female to older female"
+        ]
+      },
+      "text": "Within those cohorts, older students are known as seonbae, and younger students are hubae. Across ordinary social life, four fundamental kinship terms govern how individuals address anyone older than themselves."
+    },
+    {
+      "img": "s22_family_tree.png",
+      "style": "object",
+      "prompt": "four stylized paper banners showing the four Korean kinship words in clean calligraphic cut-outs",
+      "ko": "호칭 체계",
+      "ko_roman": "Ho-ching che-gye",
+      "text": "If a younger male addresses an older male, he must say hyeong. To an older female, he says nuna. A younger female addresses an older male as oppa, and an older female as unnie."
+    },
+    {
+      "img": "s23_title_as_pronoun.png",
+      "style": "object",
+      "prompt": "a paper name tag with a polite cut-paper ribbon tied neatly around it, macro studio lighting",
+      "text": "In English, you can simply call someone by their first name, like David or Sarah, whether they are twenty or forty. In Korean, dropping kinship titles and calling an older acquaintance by their bare name is strictly forbidden."
+    },
+    {
+      "img": "s24_social_ladder.png",
+      "style": "object",
+      "prompt": "two geometric paper gear wheels meshing together smoothly on a clean wooden-look paper base",
+      "text": "Once you understand this linguistic architecture, asking what year you were born ceases to be personal curiosity. It is an operational handshake. It is two computers agreeing on a network protocol before sending data."
+    },
+    {
+      "diagram": {
+        "kind": "timeline",
+        "title": "The Social Handshake Protocol",
+        "points": [
+          [
+            "Minute 1",
+            "Names & formal greeting"
+          ],
+          [
+            "Minute 3",
+            "Birth year question"
+          ],
+          [
+            "Minute 5",
+            "Assign titles & endings"
+          ],
+          [
+            "Month 2+",
+            "Agree on casual speech"
+          ]
+        ]
+      },
+      "text": "The sequence follows a strict timeline. First the introduction, then the birth year question, then the assignment of relative titles. Only after months of familiarity will the older speaker suggest lowering speech to casual terms."
+    },
+    {
+      "card": {
+        "kind": "reversal",
+        "strike": "ORDERLY RESPECT",
+        "punch": "THE HIDDEN FRICTION"
+      },
+      "text": "This structural ordering produces clear deference and social predictability. But like any rigid institutional design, it carries substantial friction and real social costs."
+    },
+    {
+      "img": "s27_chingu_barrier.png",
+      "style": "object",
+      "prompt": "two paper figures standing shoulder to shoulder with identical paper badges, warm friendship mood",
+      "ko": "친구",
+      "ko_roman": "Chingu",
+      "text": "Start with the concept of friendship. In English, a twenty-two-year-old and a twenty-six-year-old who meet in college can easily consider each other equal friends. They use identical pronouns and treat each other as peers."
+    },
+    {
+      "img": "s28_one_year_gap.png",
+      "prompt": "two paper figures sitting on park steps, one step higher than the other, polite distance between them",
+      "text": "In traditional Korean usage, the word chingu strictly means people born in the exact same calendar year. A gap of even a single year introduces an asymmetric hierarchy that never completely disappears from speech patterns."
+    },
+    {
+      "img": "s29_early_birth.png",
+      "style": "object",
+      "prompt": "a split paper calendar page highlighting January and February with a paper magnifying glass over it",
+      "emph": "Fast year dilemma",
+      "ko": "빠른 년생",
+      "ko_roman": "Ppa-reun nyeon-saeng",
+      "text": "This rigidity created one of modern Korea's most notorious social puzzles: the early birth phenomenon, known locally as ppa-reun nyeon-saeng. For decades, children born in January or February could enter elementary school one year early."
+    },
+    {
+      "diagram": {
+        "kind": "compare",
+        "left": {
+          "title": "School Cohort",
+          "lines": [
+            "Born Feb 1995 with 1994-borns",
+            "Equal grade peers",
+            "Full casual speech"
+          ]
+        },
+        "right": {
+          "title": "Social World",
+          "lines": [
+            "Born Feb 1995 meets 1995-borns",
+            "Same calendar year",
+            "Conflicting hierarchy"
+          ]
+        }
+      },
+      "text": "Consider a student born in February nineteen ninety-five who attended school with students born in nineteen ninety-four. To her classmates, she was an equal peer. But when she met other nineteen ninety-five borns outside school, who was older?"
+    },
+    {
+      "img": "s31_broken_chain.png",
+      "style": "object",
+      "prompt": "interlocking cut-paper ring chains with one link twisted in an impossible knot, macro composition",
+      "text": "This created contradictory social loops known as lineage breakers. Person A treated Person B as an equal, Person B treated Person C as an equal, but Person A and Person C ended up trapped in a hierarchy."
+    },
+    {
+      "img": "s32_workplace_reversed.png",
+      "prompt": "a modern miniature paper office with a young manager figure presenting at a paper whiteboard to older team members",
+      "text": "In modern professional workplaces, this calendar hierarchy creates further organizational drag. What happens when a twenty-eight-year-old manager leads a team that includes a thirty-four-year-old junior employee?"
+    },
+    {
+      "img": "s33_meeting_silence.png",
+      "prompt": "a conference table made of paper with several paper worker figures sitting quietly with paper folders, tense and formal",
+      "text": "The official organizational chart says the manager has formal authority. But centuries of linguistic conditioning make issuing direct commands to an older individual deeply uncomfortable. In boardroom discussions, junior members often hesitate to critique proposals from seniors."
+    },
+    {
+      "img": "s34_startup_office.png",
+      "prompt": "an open-plan miniature paper tech startup office with cozy paper laptops and coffee mugs, casual vibe",
+      "text": "Recognizing this friction, many modern tech corporations and startups have tried to dismantle the hierarchy. Companies have introduced policies where employees use English first names or append the neutral honorific suffix nim to everyone."
+    },
+    {
+      "img": "s35_nim_balance.png",
+      "style": "object",
+      "prompt": "a balanced paper mobile hanging from thin threads with names and suffixes in harmony, minimalist studio lighting",
+      "ko": "님 호칭",
+      "ko_roman": "Nim ho-ching",
+      "text": "Yet corporate leaders discover that changing names does not fully change the language. You can call your colleague Michael, but as long as you speak Korean, every verb ending still forces a choice between deference and familiarity."
+    },
+    {
+      "img": "s36_phone_screen.png",
+      "style": "object",
+      "prompt": "a paper smartphone model displaying a digital ID screen with birthday timestamps, clean aesthetic",
+      "text": "This is why the June twenty twenty-three international age law had almost no effect on daily social interactions. The statute was designed for administrative precision: calculating pension eligibility, military service dates, and statutory voting rights."
+    },
+    {
+      "diagram": {
+        "kind": "list",
+        "title": "Law vs Linguistic Habit",
+        "items": [
+          "The 2023 Law: ID cards, pensions, and voting",
+          "The Grammar: Conjugations on every verb",
+          "The Kinship Terms: Coordinates for distance",
+          "The School Cohort: Lifelong shared cultural clocks"
+        ]
+      },
+      "text": "The law successfully reformed contracts and courtrooms. But the law did not provide a neutral verb conjugation for How was your weekend. Until the grammar changes, the social software remains unchanged."
+    },
+    {
+      "img": "s38_shared_clock.png",
+      "style": "object",
+      "prompt": "an intricate layered paper clock with calendar years forming concentric rings, warm ambient glow",
+      "text": "There is also a functional benefit that explains why the system endures. In a fast-moving society, tying social expectations to birth cohorts gives everyone an instant, shared cultural clock. People of the same cohort share identical references and mutual expectations."
+    },
+    {
+      "img": "s39_handshake_warm.png",
+      "prompt": "two paper figures shaking hands across a cafe table under soft evening light, respectful and friendly posture",
+      "text": "When two Koreans ask each other their birth year, they are not judging whether someone is worthy of respect. They are simply asking: Which grammatical lens should we look through so neither of us feels offended?"
+    },
+    {
+      "diagram": {
+        "kind": "list",
+        "title": "The Realities Behind the Question",
+        "items": [
+          "Not nosiness: a mechanical grammatical requirement",
+          "Not endearments: precise traffic signals of distance",
+          "Not solved by statute: woven into daily sentence endings"
+        ]
+      },
+      "text": "So the next time you hear a Korean acquaintance inquire about your age within minutes of meeting, do not take it as an intrusion into your personal life."
+    },
+    {
+      "img": "s41_two_teacups.png",
+      "style": "object",
+      "prompt": "two warm ceramic-style paper teacups steaming gently side by side on a woven paper coaster",
+      "text": "They are checking the compass. They are making sure that the words leaving their mouth land with exactly the right balance of care, politeness, and respect."
+    },
+    {
+      "card": {
+        "kind": "end",
+        "channel": "Only in Korea",
+        "line": "How systems work. Nothing more."
+      },
+      "text": "Behind the words that travel around the world in songs and dramas lies an ancient engine of syntax. A system where age is not just a number, but the grammar of society itself."
+    }
+  ],
+  "chapter_segments": [
+    1,
+    6,
+    11,
+    18,
+    26,
+    32,
+    38
+  ],
+  "thumb": {
+    "img": "s01_cafe_meet.png",
+    "kicker": "BORN WHEN?",
+    "punch": "BEFORE NAME."
+  },
+  "desc": {
+    "lead": "Within five minutes of meeting in South Korea, you will almost certainly be asked: Which year were you born? In 2023, Korea officially standardized age by law. But why do people still ask birth year before your name? Here is the hidden linguistic machinery behind Korean honorifics, kinship titles, and social hierarchy.",
+    "chapters": [
+      [
+        "0:00",
+        "The first question"
+      ],
+      [
+        "",
+        "The 2023 age reform"
+      ],
+      [
+        "",
+        "No neutral verbs"
+      ],
+      [
+        "",
+        "Why birth year?"
+      ],
+      [
+        "",
+        "The cost of hierarchy"
+      ],
+      [
+        "",
+        "Workplace friction"
+      ],
+      [
+        "",
+        "The operational handshake"
+      ]
+    ],
+    "refs": [
+      "Administrative Basic Act (행정기본법), Article 7-2 (Calculation and Indication of Age in Administrative Affairs): https://www.law.go.kr/",
+      "Civil Act (민법), Article 158 (Calculation of Age): https://www.law.go.kr/",
+      "National Institute of Korean Language (국립국어원), Korean Honorific System and Speech Levels: https://www.korean.go.kr/",
+      "Ministry of Government Legislation, Implementation of International Age Standard (2023.6.28): https://www.moleg.go.kr/"
+    ],
+    "tags": [
+      "Korean age",
+      "Korean language",
+      "Korean culture",
+      "Honorifics",
+      "Korea",
+      "South Korea",
+      "Only in Korea"
+    ]
+  },
+  "sub_replace": {
+    "twenty twenty-three": "2023",
+    "twenty-three": "23",
+    "twenty-eighth": "28th",
+    "twenty-two-year-old": "22-year-old",
+    "twenty-six-year-old": "26-year-old",
+    "twenty-eight-year-old": "28-year-old",
+    "thirty-four-year-old": "34-year-old",
+    "nineteen ninety-four": "1994",
+    "nineteen ninety-five": "1995",
+    "five minutes": "5 minutes",
+    "one or two years": "1 or 2 years",
+    "two days": "2 days",
+    "twelve-month": "12-month",
+    "first of January": "January 1st",
+    "January first": "January 1st"
+  }
+}

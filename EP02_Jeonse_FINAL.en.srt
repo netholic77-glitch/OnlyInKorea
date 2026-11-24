@@ -1,0 +1,613 @@
+1
+00:00:00,000 --> 00:00:05,843
+Imagine getting the keys to an
+apartment and owing ₩0 in monthly rent.
+
+2
+00:00:05,843 --> 00:00:07,763
+There is one condition.
+
+3
+00:00:07,763 --> 00:00:13,272
+Before moving in, you hand the
+landlord a deposit of ₩200,000,000.
+
+4
+00:00:13,722 --> 00:00:17,487
+Now for the part that makes
+this lease surprising.
+
+5
+00:00:17,487 --> 00:00:22,306
+When it ends, the landlord owes
+you that same ₩200,000,000 back.
+
+6
+00:00:22,306 --> 00:00:27,426
+The usual deal is that you return
+the keys and get the deposit back.
+
+7
+00:00:27,876 --> 00:00:31,081
+The deposit isn't an
+advance payment of rent.
+
+8
+00:00:31,081 --> 00:00:34,643
+It pays for the arrangement
+by giving the landlord
+
+9
+00:00:34,643 --> 00:00:38,062
+use of the money while
+you have use of the home.
+
+10
+00:00:38,062 --> 00:00:41,196
+In Korea, that arrangement
+is called jeonse.
+
+11
+00:00:41,646 --> 00:00:46,710
+The same deposit connects all
+3 stages of a jeonse lease.
+
+12
+00:00:47,160 --> 00:00:50,331
+Start with what the
+contract gives each side.
+
+13
+00:00:50,331 --> 00:00:54,911
+The tenant gets the right to live
+in the home for the lease term.
+
+14
+00:00:54,911 --> 00:01:00,336
+The landlord keeps ownership and takes
+on an obligation to repay the deposit.
+
+15
+00:01:00,786 --> 00:01:03,816
+A Korean monthly rental is called wolse.
+
+16
+00:01:03,816 --> 00:01:08,437
+It commonly combines a deposit
+with a recurring rent payment.
+
+17
+00:01:08,437 --> 00:01:11,997
+With pure jeonse, the
+deposit is typically much
+
+18
+00:01:11,997 --> 00:01:15,330
+larger, and the recurring
+rent line is zero.
+
+19
+00:01:15,780 --> 00:01:19,159
+Some leases sit between
+those two arrangements.
+
+20
+00:01:19,159 --> 00:01:22,825
+They pair a sizable deposit
+with some monthly rent.
+
+21
+00:01:22,825 --> 00:01:26,347
+The difference is visible
+in the contract itself.
+
+22
+00:01:26,347 --> 00:01:30,876
+Look at both the upfront deposit
+and the amount due each month.
+
+23
+00:01:31,326 --> 00:01:36,300
+Let's use a single imaginary
+apartment to follow the money.
+
+24
+00:01:36,300 --> 00:01:40,768
+The terms in this example
+are a ₩200,000,000 deposit,
+
+25
+00:01:40,768 --> 00:01:44,814
+₩0 in monthly rent, and
+a lease lasting 2 years.
+
+26
+00:01:45,264 --> 00:01:49,781
+There can be more than one payment
+before the tenant settles in.
+
+27
+00:01:49,781 --> 00:01:53,098
+Seoul's housing guide
+describes a common split.
+
+28
+00:01:53,098 --> 00:01:58,320
+Part of the deposit is paid at signing,
+and the rest comes due at move-in.
+
+29
+00:01:58,770 --> 00:02:01,542
+Say the signing payment is 10%.
+
+30
+00:02:01,542 --> 00:02:06,014
+On our imaginary lease,
+that makes it ₩20,000,000.
+
+31
+00:02:06,014 --> 00:02:10,127
+That payment counts
+toward the agreed deposit,
+
+32
+00:02:10,127 --> 00:02:13,794
+so the remaining balance is ₩180,000,000.
+
+33
+00:02:14,244 --> 00:02:19,551
+At move-in, the balance brings
+the total paid to ₩200,000,000.
+
+34
+00:02:19,551 --> 00:02:21,948
+The tenant now has the keys.
+
+35
+00:02:22,398 --> 00:02:27,752
+Two years is also a useful reference
+point in Korean housing law.
+
+36
+00:02:27,752 --> 00:02:32,446
+A housing lease with no
+specified term, or a term shorter
+
+37
+00:02:32,446 --> 00:02:36,894
+than 2 years, is generally
+treated as lasting 2 years.
+
+38
+00:02:37,344 --> 00:02:40,106
+The law gives the tenant a choice here.
+
+39
+00:02:40,106 --> 00:02:45,912
+If the contract specifies a shorter term,
+the tenant can assert that shorter term.
+
+40
+00:02:46,362 --> 00:02:50,770
+The absence of monthly rent
+only describes the rent line.
+
+41
+00:02:50,770 --> 00:02:55,410
+Electricity, water, and building
+charges can still come due.
+
+42
+00:02:55,860 --> 00:03:00,008
+During the lease, the landlord
+still owes the agreed sum.
+
+43
+00:03:00,008 --> 00:03:04,812
+The lease does not shave a month's
+worth of rent off that balance.
+
+44
+00:03:05,262 --> 00:03:09,554
+So what does the landlord get from
+a lease with zero monthly rent?
+
+45
+00:03:09,554 --> 00:03:14,886
+The answer is the use of a large sum of
+money for the duration of the arrangement.
+
+46
+00:03:15,336 --> 00:03:20,215
+For example, the deposit could be
+used to pay down part of a loan.
+
+47
+00:03:20,215 --> 00:03:23,986
+That can reduce interest
+expenses during the lease.
+
+48
+00:03:23,986 --> 00:03:26,721
+The obligation to return the tenant's
+
+49
+00:03:26,721 --> 00:03:30,048
+deposit remains in place
+through all of that.
+
+50
+00:03:30,498 --> 00:03:34,083
+For the tenant, the
+deposit is money owed back.
+
+51
+00:03:34,083 --> 00:03:39,498
+For the landlord, it is money available
+now with a repayment due later.
+
+52
+00:03:39,948 --> 00:03:43,462
+A tenant who funds the
+deposit from savings gives up
+
+53
+00:03:43,462 --> 00:03:46,908
+whatever those savings
+could have earned elsewhere.
+
+54
+00:03:47,358 --> 00:03:51,538
+Suppose the money could
+earn 3% a year before tax.
+
+55
+00:03:51,538 --> 00:03:54,881
+On a ₩200,000,000 deposit, that would be
+
+56
+00:03:54,881 --> 00:03:58,559
+₩6,000,000 in foregone
+interest over a year.
+
+57
+00:03:58,559 --> 00:04:02,070
+That's an illustration, not a market rate.
+
+58
+00:04:02,520 --> 00:04:08,746
+Spread that hypothetical interest over
+12 months and you get ₩500,000 a month.
+
+59
+00:04:08,746 --> 00:04:11,540
+Nobody sends a monthly bill for it.
+
+60
+00:04:11,540 --> 00:04:16,968
+It is the value of the interest the
+tenant gives up in this example.
+
+61
+00:04:17,418 --> 00:04:20,437
+If the tenant borrows part of the deposit,
+
+62
+00:04:20,437 --> 00:04:23,672
+there may be a real
+interest payment as well.
+
+63
+00:04:23,672 --> 00:04:25,972
+That payment goes to the lender.
+
+64
+00:04:25,972 --> 00:04:28,847
+It is the cost of financing the deposit,
+
+65
+00:04:28,847 --> 00:04:32,010
+separate from the rent
+owed to the landlord.
+
+66
+00:04:32,460 --> 00:04:35,607
+To compare costs, add monthly rent, loan
+
+67
+00:04:35,607 --> 00:04:39,226
+interest, and the interest
+forgone on savings.
+
+68
+00:04:39,226 --> 00:04:42,924
+Identical apartments can
+carry different costs.
+
+69
+00:04:43,374 --> 00:04:45,827
+There is also a question of access.
+
+70
+00:04:45,827 --> 00:04:49,751
+A household can have enough
+income to handle the ongoing
+
+71
+00:04:49,751 --> 00:04:53,466
+expenses and still need time
+to assemble the deposit.
+
+72
+00:04:53,466 --> 00:04:57,390
+Jeonse puts that funding
+requirement right at the front.
+
+73
+00:04:57,840 --> 00:05:01,764
+At the end of the lease, the
+deposit moves from an amount
+
+74
+00:05:01,764 --> 00:05:05,894
+written in the contract to money
+that needs to be paid back.
+
+75
+00:05:05,894 --> 00:05:10,368
+The outgoing tenant may already
+need that money for another home.
+
+76
+00:05:10,818 --> 00:05:14,156
+In our simple example,
+the tenant hands the
+
+77
+00:05:14,156 --> 00:05:18,271
+apartment back and the
+landlord returns ₩200,000,000.
+
+78
+00:05:18,271 --> 00:05:21,066
+The deposit has made its round trip.
+
+79
+00:05:21,516 --> 00:05:24,252
+The timing of that last step matters.
+
+80
+00:05:24,252 --> 00:05:29,353
+A refund can be due on one home just
+as a deposit is due on the next.
+
+81
+00:05:29,353 --> 00:05:35,268
+Even a delay can leave a tenant with a
+funding gap between move-out and move-in.
+
+82
+00:05:35,718 --> 00:05:39,514
+A landlord might repay
+from available cash, from
+
+83
+00:05:39,514 --> 00:05:42,835
+borrowing, or from a new tenant's deposit.
+
+84
+00:05:42,835 --> 00:05:45,998
+The lease obliges the landlord to repay.
+
+85
+00:05:45,998 --> 00:05:50,742
+A new tenant's arrival is just
+one possible source of funds.
+
+86
+00:05:51,192 --> 00:05:54,167
+Say the next tenant's deposit is smaller.
+
+87
+00:05:54,167 --> 00:05:59,100
+That new payment alone won't cover
+the refund owed on the old lease.
+
+88
+00:05:59,100 --> 00:06:02,510
+The difference has to
+come from somewhere else.
+
+89
+00:06:02,510 --> 00:06:06,936
+The original repayment amount
+stays the same in this example.
+
+90
+00:06:07,386 --> 00:06:10,867
+Other claims on the
+property can matter as well.
+
+91
+00:06:10,867 --> 00:06:16,885
+If a home is sold at auction, there may be
+a limited sum available to pay everyone.
+
+92
+00:06:16,885 --> 00:06:21,018
+Who has priority can affect
+how much the tenant recovers.
+
+93
+00:06:21,468 --> 00:06:25,085
+Korea's housing lease law
+provides some protections.
+
+94
+00:06:25,085 --> 00:06:28,703
+For an ordinary housing
+lease, taking possession and
+
+95
+00:06:28,703 --> 00:06:32,251
+completing resident
+registration can give the lease
+
+96
+00:06:32,251 --> 00:06:35,868
+effect against third parties
+from the following day.
+
+97
+00:06:36,318 --> 00:06:41,793
+An officially assigned date on the
+contract, along with those steps, can give
+
+98
+00:06:41,793 --> 00:06:46,557
+the tenant priority over lower-ranking
+claims in a qualifying sale.
+
+99
+00:06:46,557 --> 00:06:51,534
+The order matters because several
+claims can be tied to the same home.
+
+100
+00:06:51,984 --> 00:06:55,228
+This is why existing
+rights recorded against an
+
+101
+00:06:55,228 --> 00:06:59,162
+apartment, such as a mortgage,
+are relevant to the lease.
+
+102
+00:06:59,162 --> 00:07:02,888
+The size of the deposit tells
+you the amount at stake.
+
+103
+00:07:02,888 --> 00:07:05,856
+It says little about
+who ranks ahead of it.
+
+104
+00:07:06,306 --> 00:07:11,113
+The lease law also says that the
+lease relationship is deemed to
+
+105
+00:07:11,113 --> 00:07:15,620
+continue after the term expires
+until the deposit is repaid.
+
+106
+00:07:15,620 --> 00:07:20,202
+That rule and the actual arrival
+of money are separate steps.
+
+107
+00:07:20,652 --> 00:07:24,743
+A different protection is
+a deposit return guarantee.
+
+108
+00:07:24,743 --> 00:07:29,066
+The Korea Housing and Urban
+Guarantee Corporation, known
+
+109
+00:07:29,066 --> 00:07:33,389
+as HUG, offers a product that
+can cover repayment if the
+
+110
+00:07:33,389 --> 00:07:36,708
+landlord fails to return
+a covered deposit.
+
+111
+00:07:37,158 --> 00:07:41,629
+A guarantee has eligibility
+requirements and a claims process.
+
+112
+00:07:41,629 --> 00:07:44,875
+Its place in the system
+is to provide another
+
+113
+00:07:44,875 --> 00:07:48,264
+route to repayment when
+the conditions are met.
+
+114
+00:07:48,264 --> 00:07:51,798
+The amount and timing
+still matter to the tenant.
+
+115
+00:07:52,248 --> 00:07:55,987
+The money and the keys move
+on different schedules.
+
+116
+00:07:55,987 --> 00:08:00,240
+The tenant uses the home while
+the deposit is outstanding.
+
+117
+00:08:00,690 --> 00:08:05,100
+And the large payment never turns
+the tenant into a part owner.
+
+118
+00:08:05,100 --> 00:08:09,020
+If the home's price rises
+during the lease, the original
+
+119
+00:08:09,020 --> 00:08:12,380
+agreement still calls for
+return of the deposit.
+
+120
+00:08:12,380 --> 00:08:15,810
+It does not give the tenant
+a share of that rise.
+
+121
+00:08:16,260 --> 00:08:18,350
+2 questions explain jeonse.
+
+122
+00:08:18,350 --> 00:08:23,148
+When does the money change hands,
+and who has to give it back?
+
+123
+00:08:23,598 --> 00:08:29,195
+The tenant exchanges access to a large
+sum for a home with no monthly rent.
+
+124
+00:08:29,195 --> 00:08:33,822
+The landlord gets that access
+and takes on a future repayment.
+
+125
+00:08:34,272 --> 00:08:39,961
+Back at that apartment door, the whole
+agreement fits into a simple exchange.
+
+126
+00:08:39,961 --> 00:08:44,468
+The keys come with a large
+deposit, the monthly rent is zero,
+
+127
+00:08:44,468 --> 00:08:48,384
+and when the lease ends the
+same deposit is due back.

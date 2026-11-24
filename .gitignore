@@ -1,0 +1,13 @@
+# Large media — track only source assets and scripts, not build outputs
+EP*_FINAL.mp4
+EP*_preview_540p.mp4
+ep*_audio/
+ep*_work/
+__pycache__/
+*.pyc
+gen_log.txt
+ep*_build.log
+
+# Keep images and JSON in source control
+# !ep*_images/   ← tracked (source assets)
+# !ep*.json      ← tracked
